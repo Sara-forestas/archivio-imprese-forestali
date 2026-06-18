@@ -2,7 +2,7 @@
     "name": "archivio_imprese_forestali",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/Sara-forestas/archivio-imprese-forestali.git",
+    "homepage": "https://github.com/Sara-forestas/archivio-imprese-forestali/",
     "dependencies": {
         "@testing-library/dom": "^10.4.1",
         "@testing-library/jest-dom": "^6.9.1",
