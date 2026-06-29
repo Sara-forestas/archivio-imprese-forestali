@@ -47,20 +47,20 @@ function Home() {
       <div
         className="hero-card text-white"
         style={{
-          backgroundImage: `linear-gradient(rgba(0,0,0,.55), rgba(0,0,0,.55)),
-url(${import.meta.env.BASE_URL}images/hero-forestas.jpg)`
+          backgroundImage:
+            "linear-gradient(rgba(0,0,0,.55), rgba(0,0,0,.55)), url('/images/hero-forestas.jpg')",
+          backgroundSize: "cover",
+          backgroundPosition: "center"
         }}
       >
         <div className="d-flex justify-content-between align-items-center">
 
           <div className="d-flex align-items-center">
 
-            <img
-              src="/images/forestas-logo.png"
-              alt="Forestas"
-              height="80"
-              className="me-3"
-            />
+           <img
+  src={`${import.meta.env.BASE_URL}images/forestas-logo.png`}
+  alt="Forestas"
+/>
 
             <div>
               <h5 className="mb-0 fw-bold">
