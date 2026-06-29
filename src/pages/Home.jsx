@@ -60,6 +60,8 @@ function Home() {
            <img
   src={`${import.meta.env.BASE_URL}images/forestas-logo.png`}
   alt="Forestas"
+  height="80"
+  className="me-3"
 />
 
             <div>
