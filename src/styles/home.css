@@ -1,0 +1,57 @@
+body {
+  background: #f5f7fa;
+}
+
+.hero-card {
+  min-height: 600px;
+  border-radius: 24px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.search-box {
+  background: rgba(255,255,255,.95);
+  border-radius: 16px;
+  padding: 20px;
+}
+
+.search-box input {
+  height: 50px;
+}
+
+.stat-card {
+  background: white;
+  border-radius: 16px;
+  padding: 25px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0,0,0,.08);
+}
+
+.stat-card h2 {
+  color: #198754;
+  font-weight: 700;
+}
+
+.card {
+  border-radius: 16px;
+}
+
+.btn-success {
+  background: #198754;
+  border-color: #198754;
+}
+.impresa-card {
+  border-radius: 18px;
+  transition: all .2s ease;
+}
+
+.impresa-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 30px rgba(0,0,0,.15);
+}
+
+.impresa-card .btn {
+  border-radius: 10px;
+}

@@ -1,0 +1,11 @@
+.sidebar-link {
+  transition: all .2s ease;
+}
+
+.sidebar-link:hover {
+  transform: translateX(5px);
+}
+
+.sidebar-logo {
+  letter-spacing: .5px;
+}

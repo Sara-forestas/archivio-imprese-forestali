@@ -1,0 +1,544 @@
+[
+    {
+        "id": 1,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Green Oasis",
+            "codiceFiscale": "02463150900",
+            "partitaIva": "02463150900",
+            "formaGiuridica": "Green Oasis Società Cooperativa",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 4,
+            "decespugliatori": 3,
+            "cippatrici": 1,
+            "gruCavo": 0,
+            "processori": 0,
+            "spaccalegna": 1,
+            "torretteMobili": 0,
+            "risine": null,
+            "scortecciatrici": 0,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": 0,
+            "rimorchi1Asse": 0,
+            "rimorchi2Assi": 0,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 2,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "IRDENOSTRUSOC.COOP.SOCIALE",
+            "codiceFiscale": "01173660950",
+            "partitaIva": null,
+            "formaGiuridica": "COOPERATIVASOCIALETIPOB",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 15,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 4,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+
+    },
+    {
+        "id": 3,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": null,
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 4,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "A.B. SOCIETÀ COOPERATIVA",
+            "codiceFiscale": "02647070909",
+            "partitaIva": "N",
+            "formaGiuridica": "A.B. SOCIETÀ COOPERATIVA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 30
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 5,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "RAGIONE SOCIALE AGRI-SUBER 3P SOCIETA' COOPERATIVA AGRICOLA",
+            "codiceFiscale": "02809470905",
+            "partitaIva": "02809470905",
+            "formaGiuridica": "AGRI-SUBER 3P SOCIETA' COOPERATIVA AGRICOLA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 2,
+            "decespugliatori": 1,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 6,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Agricola mediterranea 94",
+            "codiceFiscale": "02177440928",
+            "partitaIva": "02177440928",
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": "Domusnovas",
+            "indirizzo": "Grotte San Giovanni",
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 4,
+            "addettiDeterminati": 1,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 4,
+            "qualifiche": { "bracciante agricolo": 1, "Autista": 1}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 7,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "SOCIETA’ COOPERATIVA AGRICOLA FORESTALE AGRIFOGLIO A.R.L.",
+            "codiceFiscale": "02494770908",
+            "partitaIva": "02494770908",
+            "formaGiuridica": "SOCIETA’ COOPERATIVA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 15
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 7,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 8,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "AGRINOA SOCIETA’ COOPERATIVA SOCIAL E",
+            "codiceFiscale": "03430480925",
+            "partitaIva": "03430480925",
+            "formaGiuridica": "SOCIETA’ COOPERATIVA A RESPONSABILITÀ LIMITATA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 15,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 5,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 9,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Albachiara Società Cooperativa sociale",
+            "codiceFiscale": "02504150901",
+            "partitaIva": "02504150901",
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 5,
+            "addettiDeterminati": 19,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 10,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": 1,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 7,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+
+]
