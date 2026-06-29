@@ -1,7 +1,13 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 
-export default defineConfig({
-  base: '/archivio-imprese-forestali/',
+export default defineConfig(({ command }) => ({
   plugins: [react()],
-})
+
+  // In locale usa "/"
+  // Su GitHub Pages usa "/archivio-imprese-forestali/"
+  base:
+    command === "serve"
+      ? "/"
+      : "/archivio-imprese-forestali/",
+}));
