@@ -899,6 +899,7 @@
             "attivitaPrevalente": null,
             "attivitaSecondaria": null
         }
+    },
         {
             "id": 16,
             "anagrafica": {
@@ -958,8 +959,7 @@
                 "attivitaPrevalente": null,
                 "attivitaSecondaria": null
             }
-        }
-    },
+        },
     {
         "id": 17,
         "anagrafica": {
@@ -4860,7 +4860,7 @@
             "attivitaPrevalente": null,
             "attivitaSecondaria": null
         }
-    }
+    },
     {
         "id": 82,
         "anagrafica": {
