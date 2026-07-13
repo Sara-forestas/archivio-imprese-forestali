@@ -2961,7 +2961,7 @@
         "personale": {
             "addettiIndeterminati": 9,
             "addettiDeterminati": 1,
-            "addettiStagionali": "fra 50 e i 70 tra maggio e settembre"
+            "addettiStagionali": 50
         },
         "personaleSpecializzato": {
             "totaleOperatori": null,
