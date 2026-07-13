@@ -2950,24 +2950,81 @@
             "partitaIva": "02806370900",
             "formaGiuridica": "LAVRA SUGHERI S.R.L.",
             "stato": "ITA",
-            "regione": null,
-            "provincia": null,
-            "comune": null,
+            "regione": "Sardegna",
+            "provincia": "",
+            "comune": "",
             "indirizzo": null,
             "email": null,
             "pec": null,
             "telefono": null
         },
         "personale": {
-            "addettiIndeterminati": null,
-            "addettiDeterminati": null,
-            "addettiStagionali": null
+            "addettiIndeterminati": 9,
+            "addettiDeterminati": 1,
+            "addettiStagionali": "fra 50 e i 70 tra maggio e settembre"
         },
         "personaleSpecializzato": {
             "totaleOperatori": null,
             "qualifiche": {}
         },
-        "attivita": [],
+        "attivita": [
+
+            {
+                "id": 1,
+                "comune": "Ollolai",
+                "localita": "Ollolai",
+                "superficie": "10 ha",
+
+                "periodo": {
+                    "dal": "2020-05",
+                    "al": "2020-05"
+                },
+
+                "giornate": 6,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Arbau Daniele"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "nterventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+
+            {
+                "id": 2,
+                "comune": "Illorai",
+                "localita": "Iscras",
+                "superficie": "60 ha",
+
+                "periodo": {
+                    "dal": "2020-05",
+                    "al": "2020-05"
+                },
+
+                "giornate": 5,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Carta Costantino"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Valorizzazione produzioni forestali",
+                    "Sughericoltura",
+                    "Viabilità forestale"
+                ],
+
+                "note": ""
+            }
+        ],
         "attrezzature": {
             "motoseghe": 10,
             "decespugliatori": 2,

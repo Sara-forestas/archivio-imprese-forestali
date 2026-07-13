@@ -7,6 +7,8 @@ import "../styles/home.css";
 function Home() {
   const [denominazione, setDenominazione] = useState("");
   const [partitaIva, setPartitaIva] = useState("");
+  const [comune, setComune] = useState("");
+  const [attivita, setAttivita] = useState("");
 
   const totaleAddetti = imprese.reduce(
     (totale, impresa) =>
@@ -17,24 +19,48 @@ function Home() {
     0
   );
 
-  const risultati =
-    denominazione !== "" || partitaIva !== ""
-      ? imprese.filter((impresa) => {
-          const matchNome =
-            (impresa.anagrafica.denominazione ?? "").toLowerCase()
-              .includes(
-                denominazione.toLowerCase()
-              );
+const risultati =
+  denominazione ||
+  partitaIva ||
+  comune ||
+  attivita
+    ? imprese.filter((impresa) => {
 
-          const matchPiva =
-            partitaIva === "" ||
-            impresa.anagrafica.partitaIva.includes(
-              partitaIva
-            );
+        const matchNome =
+          (impresa.anagrafica.denominazione ?? "")
+            .toLowerCase()
+            .includes(denominazione.toLowerCase());
 
-          return matchNome && matchPiva;
-        })
-      : [];
+        const matchPiva =
+          partitaIva === "" ||
+          (impresa.anagrafica.partitaIva ?? "")
+            .includes(partitaIva);
+
+        const matchComune =
+          comune === "" ||
+          impresa.attivita?.some(a =>
+            (a.comune ?? "")
+              .toLowerCase()
+              .includes(comune.toLowerCase())
+          );
+
+        const matchAttivita =
+          attivita === "" ||
+          impresa.attivita?.some(a =>
+            (a.tipologie ?? []).some(t =>
+              t.toLowerCase().includes(attivita.toLowerCase())
+            )
+          );
+
+        return (
+          matchNome &&
+          matchPiva &&
+          matchComune &&
+          matchAttivita
+        );
+
+      })
+    : [];
 
   return (
     <div
@@ -94,49 +120,51 @@ function Home() {
 
         <div className="search-box mt-5">
 
-          <div className="row g-3">
+         <div className="row g-3">
 
-            <div className="col-md-5">
+  <div className="col-md-3">
+    <input
+      className="form-control"
+      placeholder="Denominazione"
+      value={denominazione}
+      onChange={(e) => setDenominazione(e.target.value)}
+    />
+  </div>
 
-              <input
-                className="form-control"
-                placeholder="Denominazione impresa"
-                value={denominazione}
-                onChange={(e) =>
-                  setDenominazione(
-                    e.target.value
-                  )
-                }
-              />
+  <div className="col-md-3">
+    <input
+      className="form-control"
+      placeholder="Comune"
+      value={comune}
+      onChange={(e) => setComune(e.target.value)}
+    />
+  </div>
 
-            </div>
+  <div className="col-md-3">
+    <input
+      className="form-control"
+      placeholder="Attività"
+      value={attivita}
+      onChange={(e) => setAttivita(e.target.value)}
+    />
+  </div>
 
-            <div className="col-md-5">
+  <div className="col-md-2">
+    <input
+      className="form-control"
+      placeholder="P. IVA"
+      value={partitaIva}
+      onChange={(e) => setPartitaIva(e.target.value)}
+    />
+  </div>
 
-              <input
-                className="form-control"
-                placeholder="Partita IVA"
-                value={partitaIva}
-                onChange={(e) =>
-                  setPartitaIva(
-                    e.target.value
-                  )
-                }
-              />
+  <div className="col-md-1">
+    <button className="btn btn-success w-100">
+      Cerca
+    </button>
+  </div>
 
-            </div>
-
-            <div className="col-md-2">
-
-              <button
-                className="btn btn-success w-100"
-              >
-                Cerca
-              </button>
-
-            </div>
-
-          </div>
+</div>
 
         </div>
 
