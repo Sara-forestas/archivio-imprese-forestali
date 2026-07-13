@@ -539,6 +539,5227 @@
             "attivitaPrevalente": null,
             "attivitaSecondaria": null
         }
-    }
+    },
+    {
+        "id": 10,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "AMBIENTAL SERVICE DI IMPERA ROBERTO",
+            "codiceFiscale": "MPRRRT75H24I182A",
+            "partitaIva": "02931970921",
+            "formaGiuridica": "AMBIENTAL SERVICE DI IMPERA ROBERTO",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 2
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 5,
+            "decespugliatori": 4,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 11,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "AR. PA SOCIETA’ COOPERATIVA",
+            "codiceFiscale": "02918620903",
+            "partitaIva": "02918620903",
+            "formaGiuridica": "AR. PA SOCIETA’ COOPERATIVA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 2,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 12,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Ardu Gian Nicola",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 13,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Ardu Severino",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 14,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Baltolu & P",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 15,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "BELVERDE SOCIETA’ COOPERATIVA",
+            "codiceFiscale": "01659180903",
+            "partitaIva": "01659180903",
+            "formaGiuridica": "BELVERDE SOCIETA’ COOPERATIVA VIA DON TAZZOLI (SNC) 07020 BUDDUSÒ",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 2
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 12,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 3,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+        {
+            "id": 16,
+            "anagrafica": {
+                "numeroIscrizione": null,
+                "denominazione": "CAR. MET. SRL",
+                "codiceFiscale": "02898960907",
+                "partitaIva": "02898960907",
+                "formaGiuridica": "CODICE FISCALE 02898960907",
+                "stato": "ITA",
+                "regione": null,
+                "provincia": null,
+                "comune": null,
+                "indirizzo": null,
+                "email": null,
+                "pec": null,
+                "telefono": null
+            },
+            "personale": {
+                "addettiIndeterminati": null,
+                "addettiDeterminati": null,
+                "addettiStagionali": 1
+            },
+            "personaleSpecializzato": {
+                "totaleOperatori": null,
+                "qualifiche": {}
+            },
+            "attivita": [],
+            "attrezzature": {
+                "motoseghe": 1,
+                "decespugliatori": null,
+                "cippatrici": null,
+                "gruCavo": null,
+                "processori": null,
+                "spaccalegna": null,
+                "torretteMobili": null,
+                "risine": null,
+                "scortecciatrici": null,
+                "verricelli": null,
+                "altro": null
+            },
+            "mezzi": {
+                "autocarri": null,
+                "autocarriGru": null,
+                "miniEscavatori": null,
+                "escavatori": null,
+                "trattoriGommati": null,
+                "trattoriCingolati": null,
+                "rimorchi1Asse": null,
+                "rimorchi2Assi": null,
+                "macchinaTaglioSpaccatura": null,
+                "altro": null
+            },
+            "metadata": {
+                "sezione": null,
+                "determina": null,
+                "ateco": null,
+                "attivitaPrevalente": null,
+                "attivitaSecondaria": null
+            }
+        }
+    },
+    {
+        "id": 17,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Carta Katiuscia Francesca",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 18,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Carta Pasquale",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 19,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "SOCIETA' AGRICOLA CARTA PIETRO E FIGLI",
+            "codiceFiscale": "02426230906",
+            "partitaIva": "02426230906",
+            "formaGiuridica": "SOCIETA' AGRICOLA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 20,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "RAGIONE SOCIALE CENTRALE ACQUISTO SUGHERO E MACINA SRL",
+            "codiceFiscale": "02662150909",
+            "partitaIva": "02662150909",
+            "formaGiuridica": "CENTRALE ACQUISTO SUGHERO E MACINA SRL",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 30
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 8,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 4,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 21,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "GO.GE.S.S",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 22,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Coli Coli",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 23,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "COMMERCIALGUISO S.R.L.",
+            "codiceFiscale": "PARTITA",
+            "partitaIva": "01383550918",
+            "formaGiuridica": "COMMERCIALGUISO S.R.L.",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 24,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Concudu Maria Rita",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
 
+    {
+        "id": 25,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Corda  & C",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 26,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "CORRIAS CARLO",
+            "codiceFiscale": "CRRCRL65L31D443X",
+            "partitaIva": "00795090919",
+            "formaGiuridica": "IMPRESA INDIVIDUALE",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 2,
+            "decespugliatori": 1,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 3,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": 1,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 27,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Duferco Biomasse",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 28,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "ECOGREEN SOCIETÀ COOPERATIVA SOCIALE",
+            "codiceFiscale": "02796710925",
+            "partitaIva": "02796710925",
+            "formaGiuridica": "ECOGREEN SOCIETÀ COOPERATIVA SOCIALE",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 5,
+            "decespugliatori": 20,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 29,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "ECOSERVIZI MONTIPLA’",
+            "codiceFiscale": "Partita",
+            "partitaIva": "01252880958",
+            "formaGiuridica": "SOCIETA’COOPERATIVA SOCIALE",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 6,
+            "decespugliatori": 13,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 30,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "ELEVEN – SOCIETA’ COOPERATIVA A R.L.",
+            "codiceFiscale": "01659220907",
+            "partitaIva": "01659220907",
+            "formaGiuridica": "ELEVEN – SOCIETA’ COOPERATIVA A R.L.",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 3
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 10,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 3,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 31,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": null,
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+      },
+    {
+        "id": 32,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "F.LLr DoNEDDU",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 2,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 2,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": 1,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 33,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "F.LLI Massa",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 34,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "FAP Soc. Coop. ARL",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 35,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "RAGIONE SOCIALE FIORDILOTO SOCIETA’ COOPERATIVA SOCIALE A RL",
+            "codiceFiscale": "02518940909",
+            "partitaIva": "02518940909",
+            "formaGiuridica": "FIORDILOTO SOCIETA’ COOPERATIVA SOCIALE A RL",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 10,
+            "cippatrici": 2,
+            "gruCavo": 1,
+            "processori": 0,
+            "spaccalegna": 1,
+            "torretteMobili": 0,
+            "risine": null,
+            "scortecciatrici": 1,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": 0,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": 1,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 36,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "SOCIETA' COOPERATIVA MONTANA FIORENTINI",
+            "codiceFiscale": "02352830901",
+            "partitaIva": "02352830901",
+            "formaGiuridica": "SOCIETA' COOPERATIVA MONTANA FIORENTINI",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 37,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": null,
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 38,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "AZIENDA AGRICOLA FUNTANAMENTA",
+            "codiceFiscale": "SNNMLS74S65F979D",
+            "partitaIva": "1215360957",
+            "formaGiuridica": "DITTA INDIVIDUALE",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 2
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 2,
+            "decespugliatori": 1,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 39,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": null,
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 40,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": null,
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 41,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "I.M.E.T. SOCIETÁ A RESPONSABILITÁ LIMITATA SEMPLIFICATA",
+            "codiceFiscale": "01203170954",
+            "partitaIva": "N",
+            "formaGiuridica": "CODICE FISCALE 01203170954",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 4,
+            "decespugliatori": null,
+            "cippatrici": 2,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 6,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": 3,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": 2,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 42,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "IL DOLMEN SOCIETA’ COOPERATIVA SOCIALE",
+            "codiceFiscale": "02540670904",
+            "partitaIva": "02540670904",
+            "formaGiuridica": "COOPERATIVA SOCIALE A R.L.",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 15
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 8,
+            "decespugliatori": 14,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 2,
+            "torretteMobili": 1,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 2,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": 1,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 43,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "IL DROMEDARIO",
+            "codiceFiscale": "01132910959",
+            "partitaIva": "01132910959",
+            "formaGiuridica": "IL DROMEDARIO – SOCIETÀ COOPERATIVA SOCIALE ONLUS",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 15,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 2,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 44,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Il Giardino del Legno",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 45,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "IMET DI ATZENI DANILO",
+            "codiceFiscale": "TZNDNL75D16G113W",
+            "partitaIva": "01019600954",
+            "formaGiuridica": "IMET DI ATZENI DANILO",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 4,
+            "decespugliatori": null,
+            "cippatrici": 2,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 6,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": 3,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": 2,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 46,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Import Export Sugheri",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 47,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "IP IMPRESA SERVIZI SRL",
+            "codiceFiscale": "01174050953",
+            "partitaIva": "01174050953",
+            "formaGiuridica": "IP IMPRESA SERVIZI SRL",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 7
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 20,
+            "decespugliatori": 50,
+            "cippatrici": 2,
+            "gruCavo": 0,
+            "processori": 0,
+            "spaccalegna": 1,
+            "torretteMobili": 0,
+            "risine": null,
+            "scortecciatrici": 0,
+            "verricelli": 0,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 35,
+            "autocarriGru": null,
+            "miniEscavatori": 2,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": 1,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": 1,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 48,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "IS TRUISCUS SOC. COOP. AGRICOLA",
+            "codiceFiscale": "00499690923",
+            "partitaIva": "00499690923",
+            "formaGiuridica": "COOPERATIVA AGRICOLA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 0,
+            "addettiDeterminati": 6,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 6,
+            "decespugliatori": 6,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 49,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "RAGIONE SOCIALE LAG FORESTE S.A.S. DI GHIRRA ALBERTO & C.",
+            "codiceFiscale": "02730910904",
+            "partitaIva": "02730910904",
+            "formaGiuridica": "LAG FORESTE S.A.S. DI GHIRRA ALBERTO & C.",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 3,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 50,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "LAVRA SUGHERI S.R.L.",
+            "codiceFiscale": "02806370900",
+            "partitaIva": "02806370900",
+            "formaGiuridica": "LAVRA SUGHERI S.R.L.",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 2,
+            "cippatrici": 0,
+            "gruCavo": 0,
+            "processori": 0,
+            "spaccalegna": 0,
+            "torretteMobili": 0,
+            "risine": null,
+            "scortecciatrici": 0,
+            "verricelli": 10,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 15,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": 0,
+            "trattoriGommati": null,
+            "trattoriCingolati": 1,
+            "rimorchi1Asse": 6,
+            "rimorchi2Assi": 0,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 51,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Malloru Nicola",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 52,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Malloru Severino",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 53,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "MaPi di Piras Massimiliano Aldo",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 54,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "METTE FRANCESCO",
+            "codiceFiscale": "MTTFNC74H18A115U",
+            "partitaIva": "02203150905",
+            "formaGiuridica": "CODICE FISCALE MTTFNC74H18A115U",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 6
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 1,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 55,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "MOLINAS",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 56,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Moro Francesco Giuseppe",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 57,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Moro SS Società agricola",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 58,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "MOVIMENTO TERAA PORCU MASSIMO",
+            "codiceFiscale": "PRCMSM73R23A895J",
+            "partitaIva": "01188950917",
+            "formaGiuridica": "DITTA INDIVIDUALE",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 2
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 10,
+            "cippatrici": 2,
+            "gruCavo": null,
+            "processori": 1,
+            "spaccalegna": 2,
+            "torretteMobili": 1,
+            "risine": null,
+            "scortecciatrici": 1,
+            "verricelli": 2,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": null,
+            "miniEscavatori": 2,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": 3,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": 1,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 59,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Naturalmente verde",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 60,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Nova Cork",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 61,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "COOPERATIVA SOCIALE OMNIA SERVICE TECNOLOGY",
+            "codiceFiscale": "03641200922",
+            "partitaIva": "03641200922",
+            "formaGiuridica": "SOCIETÀ COOPERATIVA SOCIALE",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 15,
+            "decespugliatori": 25,
+            "cippatrici": 1,
+            "gruCavo": 0,
+            "processori": 0,
+            "spaccalegna": 1,
+            "torretteMobili": 0,
+            "risine": null,
+            "scortecciatrici": 0,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": null,
+            "miniEscavatori": 0,
+            "escavatori": 0,
+            "trattoriGommati": null,
+            "trattoriCingolati": 0,
+            "rimorchi1Asse": 0,
+            "rimorchi2Assi": 0,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 62,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "ORTUABIS SOC. COOP.",
+            "codiceFiscale": "90000840919",
+            "partitaIva": "00714740917",
+            "formaGiuridica": "ORTUABIS SOC. COOP.",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 17,
+            "decespugliatori": 15,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": 3,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 63,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Padenti",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 64,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Pietri Giaime Andrea",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 65,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Pillocca di Pusceddu Luigi",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 66,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Progetto Natura",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 67,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Puddu Mariano",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 68,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "QUADRIFOGLIO SOCIETA’ COOPERATIVA",
+            "codiceFiscale": "01941020909",
+            "partitaIva": "01941020909",
+            "formaGiuridica": "SOCIETA’ COOPERATIVA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 10
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 8,
+            "decespugliatori": 6,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 69,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "S.E.A.FORS.R.L",
+            "codiceFiscale": "01681130926",
+            "partitaIva": null,
+            "formaGiuridica": "SOCIETA’RESPONSABILITA’LIMITATA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 2,
+            "decespugliatori": 5,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 70,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "San Nicolo Gerrei Società Cooperativa Agricola",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 71,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "SANTA REPARADA SOCIETA’ COOPERTIVA SOCIALE",
+            "codiceFiscale": "02898100900",
+            "partitaIva": "02898100900",
+            "formaGiuridica": "SANTA REPARADA SOCIETA’ COOPERTIVA SOCIALE",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": 2,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 72,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Santa Vittoria Coop. Soci",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 73,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Sarda Sugheri",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 74,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "CONSORZIO COOPERATIVE SARDEGNA E NATURA S.C.A.",
+            "codiceFiscale": "00549750958",
+            "partitaIva": "00549750958",
+            "formaGiuridica": "SOCIETÀ COOPERATIVA AGRICOLA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 5,
+            "decespugliatori": 1,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 75,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Sardegna sughero",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 76,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Sardegna verde",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 77,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "RAGIONE SOCIALE SOCIETA’ COOPERATIVA A RL SENALONGA",
+            "codiceFiscale": "01716990906",
+            "partitaIva": "01716990906",
+            "formaGiuridica": "SOCIETA’ COOPERATIVA A RL SENALONGA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 10,
+            "cippatrici": 2,
+            "gruCavo": 1,
+            "processori": 0,
+            "spaccalegna": 1,
+            "torretteMobili": 0,
+            "risine": null,
+            "scortecciatrici": 1,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": 0,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": 1,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 78,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Service Cork Srls",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 79,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Silvio Agricola Gallura società cooperativa",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 80,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Sisaf Società Srl",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 81,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "SOCIETA’ COOPERATIVA AGRICOLA FORESTALE PATTADESE A R.L.",
+            "codiceFiscale": "02553870904",
+            "partitaIva": "02553870904",
+            "formaGiuridica": "SOCIETA’ COOPERATIVA AGRICOLA FORESTALE A R.L.",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 6,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 3,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    }
+    {
+        "id": 82,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "SOCIETÀ COOPERATIVA 9 MAGGIO ARL",
+            "codiceFiscale": "00531580959",
+            "partitaIva": "00531580959",
+            "formaGiuridica": "9 MAGGIO",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 3,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 83,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Società cooperativa sociale 3D",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 84,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "“SOS RUEDDOS” - SOCIETÀ COOPERATIVA AGRICOLA FORESTALE A R. L.",
+            "codiceFiscale": "02691930909",
+            "partitaIva": "02691930909",
+            "formaGiuridica": "SOCIETÀ COOPERATIVA AGRICOLA FORESTALE",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 2
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": 8,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": 1,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 85,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "SPANO GIAMPIETRO",
+            "codiceFiscale": "SPNGPT67H14G122H",
+            "partitaIva": "01416090916",
+            "formaGiuridica": "CODICE FISCALE SPNGPT67H14G122H",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 86,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Spanu Davide",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 87,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "SU BOSCHETTO SOCIETA’ AGRICOLA COOPERATIVA A R.L.",
+            "codiceFiscale": "01804820908",
+            "partitaIva": "01804820908",
+            "formaGiuridica": "SOCIETA’ COOPERATIVA AGRICOLA A R.L.",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 5,
+            "decespugliatori": 5,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 4,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 88,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Su Connottu cooperativa sociale",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 89,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Su Lau Società Semplice Agricola",
+            "codiceFiscale": "01618770919",
+            "partitaIva": "01618770919",
+            "formaGiuridica": "Società Semplice Agricola",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 3,
+            "decespugliatori": 2,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": 1,
+            "rimorchi1Asse": 2,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 90,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "SU PEBIANU SOCIETA’ COOPERATIVA AGRICOLA FORESTALE A R.L.",
+            "codiceFiscale": "02677250900",
+            "partitaIva": "02677250900",
+            "formaGiuridica": "SOCIETA’ COOPERATIVA AGRICOLA FORESTALE A R.L.",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 9,
+            "decespugliatori": 7,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 91,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "SUBER EXTRA SRL",
+            "codiceFiscale": "01044820916",
+            "partitaIva": "01044820916",
+            "formaGiuridica": "SUBER EXTRA SRL",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 24
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 3,
+            "decespugliatori": 3,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 4,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 92,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Suber Trading",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+            },
+    {
+        "id": 93,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Sugherificio Fois",
+            "codiceFiscale": null,
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 94,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "TONNERI SOCIETA' COOPERATIVA SOCIALE",
+            "codiceFiscale": "01621810918",
+            "partitaIva": "01621810918",
+            "formaGiuridica": "SOCIETA' COOPERATIVA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 95,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "VERDE VIVO SOCIETA' COOPERATIVA AGRICOLA",
+            "codiceFiscale": "01427200918",
+            "partitaIva": "01427200918",
+            "formaGiuridica": "VERDE VIVO SOCIETA' COOPERATIVA AGRICOLA",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 4,
+            "decespugliatori": 2,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+
+    {
+        "id": 96,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "FRATELLI VEDELE S.r.l.",
+            "codiceFiscale": "1601290917",
+            "partitaIva": "1601290917",
+            "formaGiuridica": "CODICE FISCALE 1601290917",
+            "stato": "ITA",
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
+        },
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": 4,
+            "decespugliatori": 11,
+            "cippatrici": 2,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 3,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": 2,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    }
 ]

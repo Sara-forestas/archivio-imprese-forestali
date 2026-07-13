@@ -46,12 +46,12 @@ function Home() {
     >
       <div
         className="hero-card text-white"
-        style={{
-          backgroundImage:
-            "linear-gradient(rgba(0,0,0,.55), rgba(0,0,0,.55)), url('/images/hero-forestas.jpg')",
-          backgroundSize: "cover",
-          backgroundPosition: "center"
-        }}
+       style={{
+  backgroundImage: `linear-gradient(rgba(0,0,0,.55), rgba(0,0,0,.55)), url(${import.meta.env.BASE_URL}images/hero-forestas.jpg)`,
+  backgroundSize: "cover",
+  backgroundPosition: "center",
+  backgroundRepeat: "no-repeat",
+}}
       >
         <div className="d-flex justify-content-between align-items-center">
 
