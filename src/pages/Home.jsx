@@ -134,7 +134,7 @@ const risultati =
   <div className="col-md-3">
     <input
       className="form-control"
-      placeholder="Comune"
+      placeholder="Comune in cui ha operato"
       value={comune}
       onChange={(e) => setComune(e.target.value)}
     />
