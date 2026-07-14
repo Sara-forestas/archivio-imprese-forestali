@@ -2964,7 +2964,7 @@
             "addettiStagionali": 50
         },
         "personaleSpecializzato": {
-            "totaleOperatori": null,
+            "totaleOperatori": 15,
             "qualifiche": {}
         },
         "attivita": [
@@ -2991,7 +2991,7 @@
                     "Utilizzazioni boschive",
                     "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
                     "Sughericoltura e/o estrazione e selezione del sughero",
-                    "nterventi sulla viabilità forestale"
+                    "Interventi sulla viabilità forestale"
                 ],
 
                 "note": ""
@@ -3023,7 +3023,203 @@
                 ],
 
                 "note": ""
+            },
+            {
+                "id": 3,
+                "comune": "Montresta",
+                "localita": "SAS CAMPEDAS; BENAEGHIU",
+                "superficie": "380 ha",
+
+                "periodo": {
+                    "dal": "2020-07",
+                    "al": "2020-05"
+                },
+
+                "giornate": 38,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Az. Agricola Delitala"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 4,
+                "comune": "Anela",
+                "localita": "SU FERULARZU",
+                "superficie": "78831 ha",
+
+                "periodo": {
+                    "dal": "2020-07"
+
+                },
+
+                "giornate": 2,
+
+                "committente": {
+                    "tipo": "Pubblico",
+                    "nome": "Comune di Anela"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 5,
+                "comune": "Sinnai",
+                "localita": "FRAZ. SAN GREGORIO",
+                "superficie": "100 ha",
+
+                "periodo": {
+                    "dal": "2021-05",
+                    "al": "2021-06"
+
+                },
+
+                "giornate": 41,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Palomba Raffaele"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 6,
+                "comune": "Orotelli,Oniferi",
+                "localita": "Orotelli,Oniferi",
+                "superficie": "110 ha",
+
+                "periodo": {
+                    "dal": "2021-05",
+                    "al": "2021-06"
+
+                },
+
+                "giornate": 19,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Sanna Maria Caterina"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 7,
+                "comune": "Orune",
+                "localita": "SA SERRA",
+                "superficie": "100 ha",
+
+                "periodo": {
+                    "dal": "2021-07",
+                    "al": "2021-08"
+
+                },
+
+                "giornate": 11,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Carta Graziella"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 8,
+                "comune": "Orune",
+                "localita": "SA SERRA",
+                "superficie": "100 ha",
+
+                "periodo": {
+                    "dal": "2021-08",
+                    "al": "2021-08"
+
+                },
+
+                "giornate": 15,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Porcu Giovanna"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 9,
+                "comune": "Aggius",
+                "localita": "LA FRASSATA + PARCO DI SANTA DEGNA",
+                "superficie": "578 piante",
+
+                "periodo": {
+                    "dal": "2021-08",
+                    "al": "2021-08"
+
+                },
+
+                "giornate": 4,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Forestas"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": "Da finire di estrarre nella stagione 2022."
             }
+           
+            
         ],
         "attrezzature": {
             "motoseghe": 10,
@@ -3033,17 +3229,25 @@
             "processori": 0,
             "spaccalegna": 0,
             "torretteMobili": 0,
+            "potatore": 3,
+            "tranciaRotativa": 2,
+            "segaAnastro":  3,
             "risine": null,
             "scortecciatrici": 0,
             "verricelli": 10,
+            "forbiceElettronica": 1,
+            "giroandatore": 1,
+            "tirabande" :  8,
             "altro": null
         },
         "mezzi": {
             "autocarri": 15,
             "autocarriGru": null,
             "miniEscavatori": 1,
-            "escavatori": 0,
-            "trattoriGommati": null,
+            "palaCingolata" :  1,
+            "escavatore": 0,
+            "palaMeccanica" :  1,
+            "trattoriGommati": 4,
             "trattoriCingolati": 1,
             "rimorchi1Asse": 6,
             "rimorchi2Assi": 0,
