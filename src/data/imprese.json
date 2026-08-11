@@ -17,47 +17,110 @@
             "telefono": null
         },
         "personale": {
-            "addettiIndeterminati": null,
-            "addettiDeterminati": null,
+            "addettiIndeterminati": 4,
+            "addettiDeterminati": 5,
             "addettiStagionali": null
         },
         "personaleSpecializzato": {
-            "totaleOperatori": null,
-            "qualifiche": {}
+            "totaleOperatori": 1,
+            "qualifiche": [
+                "Operatore forestale",
+                "Addetto alla manutenzione di aree boschive e forestali"
+            ]
         },
-        "attivita": [],
-        "attrezzature": {
-            "motoseghe": 4,
-            "decespugliatori": 3,
-            "cippatrici": 1,
-            "gruCavo": 0,
-            "processori": 0,
-            "spaccalegna": 1,
-            "torretteMobili": 0,
-            "risine": null,
-            "scortecciatrici": 0,
-            "verricelli": 1,
-            "altro": null
-        },
-        "mezzi": {
-            "autocarri": 1,
-            "autocarriGru": null,
-            "miniEscavatori": 1,
-            "escavatori": 1,
-            "trattoriGommati": null,
-            "trattoriCingolati": 0,
-            "rimorchi1Asse": 0,
-            "rimorchi2Assi": 0,
-            "macchinaTaglioSpaccatura": null,
-            "altro": null
-        },
-        "metadata": {
-            "sezione": null,
-            "determina": null,
-            "ateco": null,
-            "attivitaPrevalente": null,
-            "attivitaSecondaria": null
-        }
+        "attivita": [
+
+            {
+                "id": 1,
+                "comune": "Pattada",
+                "localita": "S’abbaidolza, Sos Elighes longos",
+                "superficie": "30 ha",
+
+                "periodo": {
+                    "dal": "2019-03",
+                    "al": "2019-10"
+                },
+
+                "giornate": 115,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Pattada"
+                },
+
+                "tipologie": [
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+
+
+            {
+                "id": 2,
+                "comune": "Loiri Porto Sanpaolo",
+                "localita": "Trudda",
+                "superficie": "100 ha",
+
+                "periodo": {
+                    "dal": "2018-12",
+                    "al": "2019-07"
+                },
+
+                "giornate": 140,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Loiri Porto San Paolo"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Rimboschimento e imboschimento",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Gesione forestale per la valorizzazione del paesaggio",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+
+                "note": ""
+            }
+        ],
+                "attrezzature":{
+                    "motoseghe": 4,
+                    "decespugliatori": 3,
+                    "cippatrici": 1,
+                    "gruCavo": 0,
+                    "processori": 0,
+                    "spaccalegna": 1,
+                    "torretteMobili": 0,
+                    "risine": null,
+                    "scortecciatrici": 0,
+                    "verricelli": 1,
+                    "altro": null
+                },
+                "mezzi":
+                {
+                    "autocarri": 1,
+                    "autocarriGru": null,
+                    "miniEscavatori": 1,
+                    "escavatori": 0,
+                    "trattoriGommati": null,
+                    "trattoriCingolati": 0,
+                    "rimorchi1Asse": 0,
+                    "rimorchi2Assi": 0,
+                    "macchinaTaglioSpaccatura": null,
+                    "altro": null
+                },
+                "metadata":
+                {
+                    "sezione": null,
+                    "determina": null,
+                    "ateco": null,
+                    "attivitaPrevalente": null,
+                    "attivitaSecondaria": null
+                }
     },
     {
         "id": 2,
@@ -66,26 +129,205 @@
             "denominazione": "IRDENOSTRUSOC.COOP.SOCIALE",
             "codiceFiscale": "01173660950",
             "partitaIva": null,
-            "formaGiuridica": "COOPERATIVASOCIALETIPOB",
+            "formaGiuridica": "COOPERATIVA SOCIALE TIPO B",
             "stato": "ITA",
-            "regione": null,
-            "provincia": null,
-            "comune": null,
-            "indirizzo": null,
-            "email": null,
-            "pec": null,
-            "telefono": null
+            "regione": "Sardegna",
+            "provincia": "Oristano",
+            "comune": "NUGHEDU SANTA VITTORIA",
+            "indirizzo": "VIA ARGIOLAS N. 44",
+            "email": "IRDENOSTRU@GMAIL.COM",
+            "pec": "IRDENOSTRU@LEGALMAIL.IT",
+            "telefono": 3939198977
         },
         "personale": {
-            "addettiIndeterminati": null,
-            "addettiDeterminati": null,
+            "addettiIndeterminati": 2,
+            "addettiDeterminati": 25,
             "addettiStagionali": null
         },
         "personaleSpecializzato": {
             "totaleOperatori": null,
             "qualifiche": {}
         },
-        "attivita": [],
+        "attivita": [
+
+            {
+                "id": 1,
+                "comune": "Domusnovas",
+                "localita": "Area industriale, campo tennis, piazza don Giovanni Frongia, via Baracca,via Cagliari,piazza,XXIII,via Bon,via Monti",
+                "superficie": "29.704 mq",
+
+                "periodo": {
+                    "dal": "2019-07",
+                    "al": "2020-05"
+                },
+
+                "giornate": 161,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Domusnovas"
+                },
+
+                "tipologie": [
+                    "Rimboschimento e imboschimento",
+                    "Gestione forestale per la valorizzazione del paesaggio"
+                ],
+
+                "note": ""
+            },
+
+
+            {
+                "id": 2,
+                "comune": "Sinnai",
+                "localita": "Aree verdi cedute al comune tramite piani di lottizzazione di iniziativa privata",
+                "superficie": "12.167 mq",
+
+                "periodo": {
+                    "dal": "2019-02",
+                    "al": "2019-12"
+                },
+
+                "giornate": 165,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Sinnai"
+                },
+
+                "tipologie": [
+                    "Rimboschimento e imboschimento",
+                    "Gesione forestale per la valorizzazione del paesaggio"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 3,
+                "comune": "Noragugume",
+                "localita": "Territorio comunale",
+                "superficie": "3.00, 00 ha",
+
+                "periodo": {
+                    "dal": "2020-10",
+                    "al": "2021-08"
+                },
+
+                "giornate": 232,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Noragugume"
+                },
+
+                "tipologie": [
+                    "Rimboschimento e imboschimento",
+                    "Gesione forestale per la valorizzazione del paesaggio"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 4,
+                "comune": "Burcei",
+                "localita": "Area pian di zona, area parco e pineta comunale, area bel vedere Santa Barbara",
+                "superficie": "2.00, 00 ha",
+
+                "periodo": {
+                    "dal": "2019-10",
+                    "al": "2020-08"
+                },
+
+                "giornate": 200,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Burcei"
+                },
+
+                "tipologie": [
+                    "Rimboschimento e imboschimento",
+                    "Gesione forestale per la valorizzazione del paesaggio"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 3,
+                "comune": "Noragugume",
+                "localita": "Territorio comunale",
+                "superficie": "3.00, 00 ha",
+
+                "periodo": {
+                    "dal": "2020-10",
+                    "al": "2021-08"
+                },
+
+                "giornate": 232,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Noragugume"
+                },
+
+                "tipologie": [
+                    "Rimboschimento e imboschimento",
+                    "Gesione forestale per la valorizzazione del paesaggio"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 5,
+                "comune": "Villaurbana",
+                "localita": "Area Bau Mendula",
+                "superficie": "2.00, 00 ha",
+
+                "periodo": {
+                    "dal": "2021-04",
+                    "al": "2021-09"
+                },
+
+                "giornate": 106,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Villaurbana"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gesione forestale per la valorizzazione del paesaggio"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 6,
+                "comune": "Seulo",
+                "localita": "Località Archennui",
+                "superficie": "200.000,00 mq",
+
+                "periodo": {
+                    "dal": "2019-11",
+                    "al": "2020-03"
+                },
+
+                "giornate": 99,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Seulo"
+                },
+
+                "tipologie": [
+                    "Rimboschimento e imboschimento",
+                    "Gesione forestale per la valorizzazione del paesaggio"
+                ],
+
+                "note": ""
+            }
+        ],
         "attrezzature": {
             "motoseghe": 10,
             "decespugliatori": 15,
@@ -104,7 +346,7 @@
             "autocarriGru": null,
             "miniEscavatori": null,
             "escavatori": null,
-            "trattoriGommati": null,
+            "trattoriGommati": 3,
             "trattoriCingolati": null,
             "rimorchi1Asse": null,
             "rimorchi2Assi": null,
@@ -124,8 +366,8 @@
         "id": 3,
         "anagrafica": {
             "numeroIscrizione": null,
-            "denominazione": null,
-            "codiceFiscale": null,
+            "denominazione": "3P AGROS S.N.C DI PISCHEDDA SALVATORE & C",
+            "codiceFiscale": "02943810909",
             "partitaIva": null,
             "formaGiuridica": null,
             "stato": "ITA",
@@ -138,34 +380,63 @@
             "telefono": null
         },
         "personale": {
-            "addettiIndeterminati": null,
+            "addettiIndeterminati": 2,
             "addettiDeterminati": null,
             "addettiStagionali": null
         },
         "personaleSpecializzato": {
-            "totaleOperatori": null,
+            "totaleOperatori": 1,
             "qualifiche": {}
         },
-        "attivita": [],
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "Telti",
+                "localita": "San Bachisio",
+                "superficie": "9 ha",
+
+                "periodo": {
+                    "dal": "2022-09",
+                    "al": "2023-02"
+                },
+
+                "giornate": 180,
+
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "Cucciari Veronica"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+
+                "note": "L’addetto, nel corso degli ultimi 5 anni, ha svolto attività per un periodo almeno pari al minimo richiesto dalla normativa nell’attività di forestazione, ivi incluso il taglio di alberi e la fornitura di legname, oltre all’attività di selezione del sughero.\nL’attività è stata svolta in parte quale socio della SOCIETA AGRICOLA DECANDIA EREDI ed in parte quale lavoratore dipendente del Sugherificio Peppino Molinas"
+            }
+        ],
         "attrezzature": {
-            "motoseghe": null,
-            "decespugliatori": null,
+            "motoseghe": 6,
+            "decespugliatori": 5,
             "cippatrici": null,
             "gruCavo": null,
             "processori": null,
-            "spaccalegna": null,
+            "spaccalegna": 1,
             "torretteMobili": null,
             "risine": null,
             "scortecciatrici": null,
-            "verricelli": null,
+            "verricelli": 1,
             "altro": null
         },
         "mezzi": {
             "autocarri": null,
             "autocarriGru": null,
-            "miniEscavatori": null,
+            "miniEscavatori": 1,
             "escavatori": null,
-            "trattoriGommati": null,
+            "trattoriGommati": 3,
             "trattoriCingolati": null,
             "rimorchi1Asse": null,
             "rimorchi2Assi": null,
@@ -186,7 +457,7 @@
             "numeroIscrizione": null,
             "denominazione": "A.B. SOCIETÀ COOPERATIVA",
             "codiceFiscale": "02647070909",
-            "partitaIva": "N",
+            "partitaIva": "",
             "formaGiuridica": "A.B. SOCIETÀ COOPERATIVA",
             "stato": "ITA",
             "regione": null,
@@ -198,38 +469,69 @@
             "telefono": null
         },
         "personale": {
-            "addettiIndeterminati": null,
-            "addettiDeterminati": null,
+            "addettiIndeterminati": null ,
+            "addettiDeterminati": 7,
             "addettiStagionali": 30
         },
         "personaleSpecializzato": {
-            "totaleOperatori": null,
-            "qualifiche": {}
+            "totaleOperatori": 6,
+            "qualifiche": [ "Operatore forestale" ]
         },
-        "attivita": [],
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "Nughedu San Nicolò - Pattada",
+                "localita": "Su Montiju de S’ Aliderru – Chercos Artos",
+                "superficie": "85 ha",
+
+                "periodo": {
+                    "dal": "2017-05"
+                },
+
+                "giornate": 500,
+
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "Mameli Giovanni, Carzedda Francesco, SVI.MI.SA."
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Rimboschimento e imboschimento",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Sistemazioni idraulico-forestali anche con tecniche di ingegneria naturalistica",
+                    "Sughericoltura e o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+
+                "note": "Non elenchiamo tutti i proprietari dei fondi dove abbiamo estratto il sughero, abbiamo i contratti di acquisto del prodotto e se necessario possiamo fornirli "
+            }
+        ],
         "attrezzature": {
-            "motoseghe": null,
-            "decespugliatori": null,
+            "motoseghe": 12,
+            "decespugliatori": 18,
             "cippatrici": null,
             "gruCavo": null,
             "processori": null,
-            "spaccalegna": null,
-            "torretteMobili": null,
-            "risine": null,
-            "scortecciatrici": null,
+            "spaccalegna": 1,
+            "torretteMobili": 1,
+            "risine": 48,
+            "scortecciatrici": 18,
             "verricelli": null,
             "altro": null
         },
         "mezzi": {
-            "autocarri": null,
+            "autocarri": 1,
             "autocarriGru": null,
-            "miniEscavatori": null,
+            "miniEscavatori": 1,
             "escavatori": null,
             "trattoriGommati": null,
             "trattoriCingolati": null,
-            "rimorchi1Asse": null,
+            "rimorchi1Asse": 1,
             "rimorchi2Assi": null,
-            "macchinaTaglioSpaccatura": null,
+            "macchinaTaglioSpaccatura": 1,
             "altro": null
         },
         "metadata": {
@@ -244,7 +546,7 @@
         "id": 5,
         "anagrafica": {
             "numeroIscrizione": null,
-            "denominazione": "RAGIONE SOCIALE AGRI-SUBER 3P SOCIETA' COOPERATIVA AGRICOLA",
+            "denominazione": "AGRI-SUBER 3P SOCIETA' COOPERATIVA AGRICOLA",
             "codiceFiscale": "02809470905",
             "partitaIva": "02809470905",
             "formaGiuridica": "AGRI-SUBER 3P SOCIETA' COOPERATIVA AGRICOLA",
@@ -259,14 +561,66 @@
         },
         "personale": {
             "addettiIndeterminati": null,
-            "addettiDeterminati": null,
-            "addettiStagionali": 1
+            "addettiDeterminati": 6,
+            "addettiStagionali": null
         },
         "personaleSpecializzato": {
-            "totaleOperatori": null,
-            "qualifiche": {}
+            "totaleOperatori": 1,
+            "qualifiche": { "Operatore forestale" }
         },
-        "attivita": [],
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "ALA' DEI SARDI",
+                "localita": "Territorio comunale",
+                "superficie": "",
+
+                "periodo": {
+                    "dal": "2021-02",
+                    "al": "2021-07"
+                },
+
+                "giornate": 66,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI ALA' DEI SARDI"
+                },
+
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Interventi sulla viabilità forestale",
+
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 1,
+                "comune": "BUDDUSO'",
+                "localita": "Territorio comunale",
+                "superficie": "50.00.00 ha",
+
+                "periodo": {
+                    "dal": "2021-05",
+                    "al": "2021-08"
+                },
+
+                "giornate": 88,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI ALA' DEI SARDI"
+                },
+
+                "tipologie": [
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+
+                ],
+
+                "note": ""
+            }
+        ],
         "attrezzature": {
             "motoseghe": 2,
             "decespugliatori": 1,
@@ -278,19 +632,19 @@
             "risine": null,
             "scortecciatrici": null,
             "verricelli": null,
-            "altro": null
+            "altro": "Attrezzatura per estrazione sughero"
         },
         "mezzi": {
             "autocarri": 1,
             "autocarriGru": null,
             "miniEscavatori": null,
             "escavatori": null,
-            "trattoriGommati": null,
+            "trattoriGommati": 2,
             "trattoriCingolati": null,
             "rimorchi1Asse": null,
             "rimorchi2Assi": null,
             "macchinaTaglioSpaccatura": null,
-            "altro": null
+            "altro": "terna gommata"
         },
         "metadata": {
             "sezione": null,
@@ -311,8 +665,8 @@
             "stato": "ITA",
             "regione": null,
             "provincia": null,
-            "comune": "Domusnovas",
-            "indirizzo": "Grotte San Giovanni",
+            "comune": "",
+            "indirizzo": "",
             "email": null,
             "pec": null,
             "telefono": null
@@ -328,28 +682,28 @@
         },
         "attivita": [],
         "attrezzature": {
-            "motoseghe": null,
-            "decespugliatori": null,
-            "cippatrici": null,
+            "motoseghe": 7,
+            "decespugliatori": 5,
+            "cippatrici": 1,
             "gruCavo": null,
             "processori": null,
             "spaccalegna": null,
             "torretteMobili": null,
-            "risine": null,
+            "risine": 100,
             "scortecciatrici": null,
-            "verricelli": null,
+            "verricelli": 1,
             "altro": null
         },
         "mezzi": {
-            "autocarri": null,
+            "autocarri": 1,
             "autocarriGru": null,
             "miniEscavatori": null,
             "escavatori": null,
-            "trattoriGommati": null,
+            "trattoriGommati": 2,
             "trattoriCingolati": null,
             "rimorchi1Asse": null,
             "rimorchi2Assi": null,
-            "macchinaTaglioSpaccatura": null,
+            "macchinaTaglioSpaccatura": 1,
             "altro": null
         },
         "metadata": {

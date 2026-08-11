@@ -3,7 +3,7 @@ import imprese from "../data/imprese.json";
 
 import Sidebar from "../components/Sidebar";
 
-import PanoramicaCard from "../components/Panoramica";
+import Panoramica from "../components/Panoramica";
 import PersonaleSpecializzatoCard from "../components/PersonaleSpecializzatoCard";
 import AttivitaForestaliCard from "../components/AttivitaForestaliCard";
 import DotazioneTecnicaCard from "../components/DotazioneTecnicaCard";
@@ -112,28 +112,24 @@ function ImpresaDetail() {
 
         {/* PANORAMICA */}
 
-        <PanoramicaCard
+        <Panoramica
           impresa={impresa}
           totaleAddetti={totaleAddetti}
         />
 
-        {/* PERSONALE SPECIALIZZATO */}
-
-        <PersonaleSpecializzatoCard
-          impresa={impresa}
-        />
-
-        {/* ATTIVITÀ FORESTALI */}
-
-        <AttivitaForestaliCard
-          impresa={impresa}
-        />
 
         {/* DOTAZIONE TECNICA */}
 
         <DotazioneTecnicaCard
           impresa={impresa}
         />
+
+        
+        {/* ATTIVITÀ FORESTALI */}
+
+        <AttivitaForestaliCard
+          impresa={impresa}
+        /> 
 
       </div>
 
