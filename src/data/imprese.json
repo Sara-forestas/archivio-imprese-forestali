@@ -566,7 +566,7 @@
         },
         "personaleSpecializzato": {
             "totaleOperatori": 1,
-            "qualifiche": { "Operatore forestale" }
+            "qualifiche": [ "Operatore forestale" ]
         },
         "attivita": [
             {
@@ -589,7 +589,7 @@
 
                 "tipologie": [
                     "Gestione forestale per la valorizzazione del paesaggio",
-                    "Interventi sulla viabilità forestale",
+                    "Interventi sulla viabilità forestale"
 
                 ],
 
