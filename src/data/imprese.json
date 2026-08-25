@@ -596,7 +596,7 @@
                 "note": ""
             },
             {
-                "id": 1,
+                "id": 2,
                 "comune": "BUDDUSO'",
                 "localita": "Territorio comunale",
                 "superficie": "50.00.00 ha",
@@ -678,9 +678,38 @@
         },
         "personaleSpecializzato": {
             "totaleOperatori": 4,
-            "qualifiche": { "bracciante agricolo": 1, "Autista": 1}
+            "qualifiche": [ "Attività di gestione forestale", "Bracciante agricolo", "Autista"]
         },
-        "attivita": [],
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "Domusnovas",
+                "localita": "Grotte San Giovanni",
+                "superficie": "60 ha",
+
+                "periodo": {
+                    "dal": "2016-01",
+                    "al": "2018-12"
+                },
+
+                "giornate": 2200,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Terreni Monte Pascoli Regione Sardegna "
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Sistemazioni idraulico-forestali anche con tecniche di ingegneria naturalistica",
+                    "Interventi sulla viabilità forestale",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+
+                ],
+
+                "note": ""
+            }
+        ],
         "attrezzature": {
             "motoseghe": 7,
             "decespugliatori": 5,
@@ -732,15 +761,45 @@
             "telefono": null
         },
         "personale": {
-            "addettiIndeterminati": null,
-            "addettiDeterminati": null,
+            "addettiIndeterminati": 2,
+            "addettiDeterminati": 15,
             "addettiStagionali": 15
         },
         "personaleSpecializzato": {
-            "totaleOperatori": null,
-            "qualifiche": {}
+            "totaleOperatori": 2,
+            "qualifiche": [ "Impiegato agricolo", "Operatore forestale" ]
         },
-        "attivita": [],
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "PATTADA",
+                "localita": "MONTE UNNE",
+                "superficie": "70 ha",
+
+                "periodo": {
+                    "dal": "2020",
+                    "al": "2020"
+                   
+                },
+
+                "giornate": 280,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Pattada"
+                },
+
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Interventi sulla viabilità forestale",
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+
+                ],
+
+                "note": ""
+            }
+        ],
+
         "attrezzature": {
             "motoseghe": 10,
             "decespugliatori": 7,
@@ -792,15 +851,72 @@
             "telefono": null
         },
         "personale": {
-            "addettiIndeterminati": null,
-            "addettiDeterminati": null,
-            "addettiStagionali": 1
+            "addettiIndeterminati": 10,
+            "addettiDeterminati": 25,
+            "addettiStagionali": null
         },
         "personaleSpecializzato": {
-            "totaleOperatori": null,
-            "qualifiche": {}
+            "totaleOperatori": 1,
+            "qualifiche": [ "Capo Cantiere Operaio super specializzato" ]
         },
-        "attivita": [],
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "COMUNE DI DOMUSNOVAS",
+                "localita": "PARCO SCARZELA , S’ ACQUA SASSA e altre aree comunali",
+                "superficie": "10.00 ha",
+
+                "periodo": {
+                    "dal": "2020-11",
+                    "al": "2021-05"
+
+                },
+
+                "giornate": 125,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI DOMUSNOVAS"
+                },
+
+                "tipologie": [
+                    "Rimboschimento e imboschimento",
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB",
+                    "Gestione forestale per la valorizzazione del paesaggio"
+
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 2,
+                "comune": "COMUNE DI VILLAPERUCCIO",
+                "localita": "PARCO DI MONTESSU",
+                "superficie": "25.00 ha",
+
+                "periodo": {
+                    "dal": "2021-07",
+                    "al": "2021-12"
+
+                },
+
+                "giornate": 107,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI VILLAPERUCCIO"
+                },
+
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB",
+                    "Gestione forestale per la valorizzazione del paesaggio"
+
+                ],
+
+                "note": ""
+            }
+        ],
         "attrezzature": {
             "motoseghe": 10,
             "decespugliatori": 15,
@@ -817,9 +933,9 @@
         "mezzi": {
             "autocarri": 5,
             "autocarriGru": null,
-            "miniEscavatori": 1,
+            "miniEscavatori": null,
             "escavatori": 1,
-            "trattoriGommati": null,
+            "trattoriGommati": 1,
             "trattoriCingolati": null,
             "rimorchi1Asse": null,
             "rimorchi2Assi": null,
@@ -860,7 +976,104 @@
             "totaleOperatori": null,
             "qualifiche": {}
         },
-        "attivita": [],
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "COMUNE DI LUOGOSANTO",
+                "localita": "strada Vaddi Dulimu, S. Eremo san Trano, S.Palazzo di Baldu, Area Lafuntanedda, S Medioevale, Parco Fonte La Filetta, Rione San Paolo",
+                "superficie": null,
+
+                "periodo": {
+                    "dal": "2022-10",
+                    "al": "2023-04"
+
+                },
+
+                "giornate": null,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI Luogosanto"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Rimboschimento e imboschimento",
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB",
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Interventi sulla viabilità forestale",
+                    "Vivaistica forestale"
+
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 2,
+                "comune": "COMUNE DI SEULO",
+                "localita": "San cosimo, Leodina Alinus, Berrisa Terra Orrubia, Perda ci non pesada, Corru e Pauli",
+                "superficie": "",
+
+                "periodo": {
+                    "dal": "2023-02",
+                    "al": "2024-03"
+
+                },
+
+                "giornate": null,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI Seulo"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Rimboschimento e imboschimento",
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB",
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Interventi sulla viabilità forestale",
+                    "Vivaistica forestale"
+                   
+
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 3,
+                "comune": "COMUNE DI VILLAPUTZU",
+                "localita": "Pranu Trebini",
+                "superficie": "",
+
+                "periodo": {
+                    "dal": "2023-02",
+                    "al": "2024-03"
+
+                },
+
+                "giornate": null,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI VILLAPUTZU"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Rimboschimento e imboschimento",
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB",
+                    "Gestione forestale per la valorizzazione della produzione anche non legnose",
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Interventi sulla viabilità forestale",
+                    "Vivaistica forestale",
+                    "Attività di prima trasformazione dei prodotti legnosi"
+
+                ],
+
+                "note": ""
+            }
+        ],
         "attrezzature": {
             "motoseghe": 10,
             "decespugliatori": 10,
@@ -917,10 +1130,41 @@
             "addettiStagionali": 2
         },
         "personaleSpecializzato": {
-            "totaleOperatori": null,
-            "qualifiche": {}
+            "totaleOperatori": 1,
+            "qualifiche": [ "Addetto alla manutenzione di aree boschive e forestali (RRPQ cod. 236)" ]
         },
-        "attivita": [],
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "COMUNE DI SANTADI E SUD SARDEGNA",
+                "localita": "",
+                "superficie": "10 ha",
+
+                "periodo": {
+                    "dal": "01",
+                    "al": "12"
+
+                },
+
+                "giornate": 200,
+
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "Comune di Santadi e Sotacarbo Spa"
+                },
+
+                "tipologie": [
+                    "Rimboschimento e imboschimento",
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB",
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Vivaistica forestale"
+
+
+                ],
+
+                "note": "Formazione e addestramento per l’utilizzo delle attrezzature motosega e decespugliatore,formazione addetti prevenzione incendi,lotta antincendio e gestione emergenze in attività a rischio basso,responsabile del servizio di prevenzione e protezione datore di lavoro,primo soccorso aziendale,abilitazione alluso di piattaforme di lavoro elevabili con e senza stabilizzatori"
+            }
+        ],
         "attrezzature": {
             "motoseghe": 5,
             "decespugliatori": 4,
@@ -974,13 +1218,71 @@
         "personale": {
             "addettiIndeterminati": null,
             "addettiDeterminati": null,
-            "addettiStagionali": 1
+            "addettiStagionali": null
         },
         "personaleSpecializzato": {
-            "totaleOperatori": null,
-            "qualifiche": {}
+            "totaleOperatori": 2,
+            "qualifiche": ["motoseghista"]
         },
-        "attivita": [],
+        "attivita": [
+            {
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "A.B. Soc. Cooperativa"
+                },
+                "comune": "COMUNE DI PATTADA",
+                "giornate": 70,
+                "id": 1,
+                "localita": "AGRO DI NUGHEDU SAN NICOLO’ (SS)",
+                "note": "",
+                "periodo": {
+                    "dal": "2018-05",
+                    "al": "2018-08"
+
+                },
+                "superficie": "100.00.00 ha",
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Rimboschimento e imboschimento",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+
+
+                ]
+            },
+            {
+                "id": 2,
+                "comune": "COMUNE DI PATTADA",
+                "localita": "AGRO DI BONO E ANELA",
+                "superficie": "110.00.00 ha",
+
+                "periodo": {
+                    "dal": "2022-12",
+                    "al": "2023-05"
+
+                },
+
+                "giornate": 80,
+
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "A.B. Soc. Cooperativa"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Rimboschimento e imboschimento",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+
+
+                ],
+
+                "note": ""
+            }
+        ],
         "attrezzature": {
             "motoseghe": 2,
             "decespugliatori": null,
@@ -1019,8 +1321,8 @@
         "anagrafica": {
             "numeroIscrizione": null,
             "denominazione": "Ardu Gian Nicola",
-            "codiceFiscale": null,
-            "partitaIva": null,
+            "codiceFiscale": "RDAGNC75S11G113L",
+            "partitaIva": "01010990958",
             "formaGiuridica": null,
             "stato": "ITA",
             "regione": null,
@@ -1032,26 +1334,131 @@
             "telefono": null
         },
         "personale": {
-            "addettiIndeterminati": null,
-            "addettiDeterminati": null,
-            "addettiStagionali": null
+            "addettiIndeterminati": 3,
+            "addettiDeterminati": 1,
+            "addettiStagionali": 1
         },
         "personaleSpecializzato": {
-            "totaleOperatori": null,
-            "qualifiche": {}
+            "totaleOperatori": 5,
+            "qualifiche": [
+                "Operatore",
+                "Conduttore di escavatori idraulici",
+                "Conduzione di trattori agricoli o forestali su ruote e cingoli",
+                "Addetto all'uso di motosega e decespugliatore",
+                "Conduttore trattore",
+                "Autista"
+            ]
         },
-        "attivita": [],
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "RUINAS (OR)",
+                "localita": "PERDARBA",
+                "superficie": "Ha 45",
+                "periodo": {
+                    "dal": "2017-08",
+                    "al": "2017-08"
+                },
+                "giornate": 20,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "F.LLI MURGIA RUINAS"
+                },
+                "tipologie": [
+                    "Interventi sulla viabilità forestale",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
+            },
+            {
+                "id": 2,
+                "comune": "NORAGUGUME",
+                "localita": "AGRO DEL COMUNE",
+                "superficie": "Ha 55",
+                "periodo": {
+                    "dal": "2017",
+                    "al": "2017"
+                },
+                "giornate": 60,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "COCCOLONE ANTONIO"
+                },
+                "tipologie": [
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
+            },
+            {
+                "id": 3,
+                "comune": "POMPU E SIMALA (OR)",
+                "localita": "LOC. SA COSTA E PRANU SERRA",
+                "superficie": "Ha 10",
+                "periodo": {
+                    "dal": "2021-10",
+                    "al": "2021-11"
+                },
+                "giornate": 20,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "STERI GIORGIO"
+                },
+                "tipologie": [
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
+            },
+            {
+                "id": 4,
+                "comune": "VILLA SANT'ANTONIO (OR)",
+                "localita": "NURAXI ARRUDA",
+                "superficie": "Ha 5,00",
+                "periodo": {
+                    "dal": "2021-12",
+                    "al": "2021-12"
+                },
+                "giornate": 10,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "SODDU GIUSEPPE"
+                },
+                "tipologie": [
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
+            },
+            {
+                "id": 5,
+                "comune": "PALMADULA (SS)",
+                "localita": "LOC. NURRA",
+                "superficie": "Ha 30",
+                "periodo": {
+                    "dal": "2021-07",
+                    "al": "2021-12"
+                },
+                "giornate": 120,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "F.LLI ZIDDA SOC. AGRICOLA"
+                },
+                "tipologie": [
+                    "Interventi sulla viabilità forestale",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
+            }
+        ],
         "attrezzature": {
-            "motoseghe": null,
-            "decespugliatori": null,
-            "cippatrici": null,
+            "motoseghe": 3,
+            "decespugliatori": 1,
+            "cippatrici": 1,
             "gruCavo": null,
             "processori": null,
-            "spaccalegna": null,
+            "spaccalegna": 1,
             "torretteMobili": null,
             "risine": null,
             "scortecciatrici": null,
-            "verricelli": null,
+            "verricelli": 1,
             "altro": null
         },
         "mezzi": {
@@ -1064,7 +1471,7 @@
             "rimorchi1Asse": null,
             "rimorchi2Assi": null,
             "macchinaTaglioSpaccatura": null,
-            "altro": null
+            "altro": [ "cesoia forestale", "pinza forestale" ]
         },
         "metadata": {
             "sezione": null,
@@ -1078,14 +1485,14 @@
         "id": 13,
         "anagrafica": {
             "numeroIscrizione": null,
-            "denominazione": "Ardu Severino",
-            "codiceFiscale": null,
-            "partitaIva": null,
-            "formaGiuridica": null,
-            "stato": "ITA",
+            "denominazione": "ARDU SEVERINO",
+            "codiceFiscale": "RDASRN49H11A204X",
+            "partitaIva": "00828290952",
+            "formaGiuridica": "ARDU SEVERINO IMPRESA INDIVIDUALE",
+            "stato": null,
             "regione": null,
             "provincia": null,
-            "comune": null,
+            "comune": "ALLAI",
             "indirizzo": null,
             "email": null,
             "pec": null,
@@ -1093,38 +1500,123 @@
         },
         "personale": {
             "addettiIndeterminati": null,
-            "addettiDeterminati": null,
+            "addettiDeterminati": 8,
             "addettiStagionali": null
         },
         "personaleSpecializzato": {
-            "totaleOperatori": null,
-            "qualifiche": {}
+            "totaleOperatori": 0,
+            "qualifiche": []
         },
-        "attivita": [],
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "VILLANOVA TRUSCHEDU",
+                "localita": "PISCINA ANDRIA",
+                "superficie": "35.13.00",
+                "periodo": {
+                    "dal": "2022-01",
+                    "al": "2022-04"
+                },
+                "giornate": 537,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI VILLANOVA TRUSCHEDU"
+                },
+                "tipologie": [
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB",
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            },
+            {
+                "id": 2,
+                "comune": "VILLANOVA TRUSCHEDU",
+                "localita": "PISCINA ANDRIA",
+                "superficie": "30.08.45",
+                "periodo": {
+                    "dal": "2020-01",
+                    "al": "2020-02"
+                },
+                "giornate": 169,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI VILLANOVA TRUSCHEDU"
+                },
+                "tipologie": [
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB",
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            },
+            {
+                "id": 3,
+                "comune": "VILLANOVA TRUSCHEDU",
+                "localita": "PISCINA ANDRIA",
+                "superficie": "30.08.45",
+                "periodo": {
+                    "dal": "2019-01",
+                    "al": "2019-07"
+                },
+                "giornate": 284,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI VILLANOVA TRUSCHEDU"
+                },
+                "tipologie": [
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB",
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            },
+            {
+                "id": 4,
+                "comune": "VILLANOVA TRUSCHEDU",
+                "localita": "PISCINA ANDRIA",
+                "superficie": "30.08.45",
+                "periodo": {
+                    "dal": "2018-10",
+                    "al": "2018-12"
+                },
+                "giornate": 452,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI VILLANOVA TRUSCHEDU"
+                },
+                "tipologie": [
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB",
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            }
+        ],
         "attrezzature": {
-            "motoseghe": null,
-            "decespugliatori": null,
+            "motoseghe": 4,
+            "decespugliatori": 2,
             "cippatrici": null,
             "gruCavo": null,
             "processori": null,
-            "spaccalegna": null,
+            "spaccalegna": 1,
             "torretteMobili": null,
             "risine": null,
             "scortecciatrici": null,
-            "verricelli": null,
+            "verricelli": 1,
             "altro": null
         },
         "mezzi": {
-            "autocarri": null,
+            "autocarri": 1,
             "autocarriGru": null,
             "miniEscavatori": null,
             "escavatori": null,
-            "trattoriGommati": null,
-            "trattoriCingolati": null,
+            "trattoriGommati": 1,
+            "trattoriCingolati": 1,
             "rimorchi1Asse": null,
             "rimorchi2Assi": null,
             "macchinaTaglioSpaccatura": null,
-            "altro": null
+            "altro": 4
         },
         "metadata": {
             "sezione": null,
@@ -1135,14 +1627,14 @@
         }
     },
     {
-        "id": 14,
+        "id": null,
         "anagrafica": {
             "numeroIscrizione": null,
-            "denominazione": "Baltolu & P",
-            "codiceFiscale": null,
-            "partitaIva": null,
-            "formaGiuridica": null,
-            "stato": "ITA",
+            "denominazione": "SS BALTOLU & P AZIENDA AGRICOLA",
+            "codiceFiscale": "02091200903",
+            "partitaIva": "02091200903",
+            "formaGiuridica": "AZIENDA AGRICOLA",
+            "stato": null,
             "regione": null,
             "provincia": null,
             "comune": null,
@@ -1152,79 +1644,77 @@
             "telefono": null
         },
         "personale": {
-            "addettiIndeterminati": null,
+            "addettiIndeterminati": 1,
             "addettiDeterminati": null,
             "addettiStagionali": null
         },
         "personaleSpecializzato": {
-            "totaleOperatori": null,
-            "qualifiche": {}
+            "totaleOperatori": 0,
+            "qualifiche": []
         },
-        "attivita": [],
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "Comune di Alà dei Sardi",
+                "localita": "Agro",
+                "superficie": "Ha 50.00.00",
+                "periodo": {
+                    "dal": "2019-05",
+                    "al": "2019-09"
+                },
+                "giornate": 105,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "Agro di Alà dei Sardi"
+                },
+                "tipologie": [
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+                ],
+                "note": ""
+            },
+            {
+                "id": 2,
+                "comune": "Agro di Orotelli",
+                "localita": "Agro",
+                "superficie": "Ha 30.00.00",
+                "periodo": {
+                    "dal": "2019-05",
+                    "al": "2019-09"
+                },
+                "giornate": 105,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "Agro di Orotelli"
+                },
+                "tipologie": [
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+                ],
+                "note": ""
+            },
+            {
+                "id": 3,
+                "comune": "Comune di Buddusò",
+                "localita": "Santa Reparata",
+                "superficie": "Ha 23.00.00",
+                "periodo": {
+                    "dal": "2019-05",
+                    "al": "2019-09"
+                },
+                "giornate": 105,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "Agro di Buddusò"
+                },
+                "tipologie": [
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+                ],
+                "note": ""
+            }
+        ],
         "attrezzature": {
-            "motoseghe": null,
-            "decespugliatori": null,
+            "motoseghe": 4,
+            "decespugliatori": 2,
             "cippatrici": null,
-            "gruCavo": null,
-            "processori": null,
-            "spaccalegna": null,
-            "torretteMobili": null,
-            "risine": null,
-            "scortecciatrici": null,
-            "verricelli": null,
-            "altro": null
-        },
-        "mezzi": {
-            "autocarri": null,
-            "autocarriGru": null,
-            "miniEscavatori": null,
-            "escavatori": null,
-            "trattoriGommati": null,
-            "trattoriCingolati": null,
-            "rimorchi1Asse": null,
-            "rimorchi2Assi": null,
-            "macchinaTaglioSpaccatura": null,
-            "altro": null
-        },
-        "metadata": {
-            "sezione": null,
-            "determina": null,
-            "ateco": null,
-            "attivitaPrevalente": null,
-            "attivitaSecondaria": null
-        }
-    },
-    {
-        "id": 15,
-        "anagrafica": {
-            "numeroIscrizione": null,
-            "denominazione": "BELVERDE SOCIETA’ COOPERATIVA",
-            "codiceFiscale": "01659180903",
-            "partitaIva": "01659180903",
-            "formaGiuridica": "BELVERDE SOCIETA’ COOPERATIVA VIA DON TAZZOLI (SNC) 07020 BUDDUSÒ",
-            "stato": "ITA",
-            "regione": null,
-            "provincia": null,
-            "comune": null,
-            "indirizzo": null,
-            "email": null,
-            "pec": null,
-            "telefono": null
-        },
-        "personale": {
-            "addettiIndeterminati": null,
-            "addettiDeterminati": null,
-            "addettiStagionali": 2
-        },
-        "personaleSpecializzato": {
-            "totaleOperatori": null,
-            "qualifiche": {}
-        },
-        "attivita": [],
-        "attrezzature": {
-            "motoseghe": 10,
-            "decespugliatori": 12,
-            "cippatrici": 1,
             "gruCavo": null,
             "processori": null,
             "spaccalegna": 1,
@@ -1235,11 +1725,11 @@
             "altro": null
         },
         "mezzi": {
-            "autocarri": 3,
+            "autocarri": 1,
             "autocarriGru": null,
             "miniEscavatori": null,
             "escavatori": null,
-            "trattoriGommati": null,
+            "trattoriGommati": 1,
             "trattoriCingolati": null,
             "rimorchi1Asse": null,
             "rimorchi2Assi": null,
@@ -1254,15 +1744,16 @@
             "attivitaSecondaria": null
         }
     },
+    
         {
-            "id": 16,
+            "id": 15,
             "anagrafica": {
                 "numeroIscrizione": null,
-                "denominazione": "CAR. MET. SRL",
-                "codiceFiscale": "02898960907",
-                "partitaIva": "02898960907",
-                "formaGiuridica": "CODICE FISCALE 02898960907",
-                "stato": "ITA",
+                "denominazione": "BELVERDE SOCIETA’ COOPERATIVA",
+                "codiceFiscale": "01659180903",
+                "partitaIva": "01659180903",
+                "formaGiuridica": "BELVERDE SOCIETA’ COOPERATIVA",
+                "stato": null,
                 "regione": null,
                 "provincia": null,
                 "comune": null,
@@ -1272,22 +1763,47 @@
                 "telefono": null
             },
             "personale": {
-                "addettiIndeterminati": null,
-                "addettiDeterminati": null,
-                "addettiStagionali": 1
+                "addettiIndeterminati": 4,
+                "addettiDeterminati": 4,
+                "addettiStagionali": 2
             },
             "personaleSpecializzato": {
-                "totaleOperatori": null,
-                "qualifiche": {}
+                "totaleOperatori": 4,
+                "qualifiche": [
+                    "Addetto al Decespugliatore",
+                    "Potatore motoseghista",
+                    "Trattorista"
+                ]
             },
-            "attivita": [],
+            "attivita": [
+                {
+                    "id": 1,
+                    "comune": "Buddusò",
+                    "localita": "",
+                    "superficie": "",
+                    "periodo": {
+                        "dal": "2017",
+                        "al": "2017"
+                    },
+                    "giornate": null,
+                    "committente": {
+                        "tipo": "Pubblica",
+                        "nome": "Comune di Buddusò"
+                    },
+                    "tipologie": [
+                        "Utilizzazioni boschive",
+                        "Interventi sulla viabilità forestale"
+                    ],
+                    "note": ""
+                }
+            ],
             "attrezzature": {
-                "motoseghe": 1,
-                "decespugliatori": null,
-                "cippatrici": null,
+                "motoseghe": 10,
+                "decespugliatori": 12,
+                "cippatrici": 1,
                 "gruCavo": null,
                 "processori": null,
-                "spaccalegna": null,
+                "spaccalegna": 1,
                 "torretteMobili": null,
                 "risine": null,
                 "scortecciatrici": null,
@@ -1295,11 +1811,11 @@
                 "altro": null
             },
             "mezzi": {
-                "autocarri": null,
+                "autocarri": 3,
                 "autocarriGru": null,
                 "miniEscavatori": null,
                 "escavatori": null,
-                "trattoriGommati": null,
+                "trattoriGommati": 6,
                 "trattoriCingolati": null,
                 "rimorchi1Asse": null,
                 "rimorchi2Assi": null,
@@ -1314,66 +1830,311 @@
                 "attivitaSecondaria": null
             }
         },
-    {
-        "id": 17,
-        "anagrafica": {
-            "numeroIscrizione": null,
-            "denominazione": "Carta Katiuscia Francesca",
-            "codiceFiscale": null,
-            "partitaIva": null,
-            "formaGiuridica": null,
-            "stato": "ITA",
-            "regione": null,
-            "provincia": null,
-            "comune": null,
-            "indirizzo": null,
-            "email": null,
-            "pec": null,
-            "telefono": null
+        {
+            "id": 16,
+            "anagrafica": {
+                "numeroIscrizione": null,
+                "denominazione": "CAR. MET. SRL",
+                "codiceFiscale": "02898960907",
+                "partitaIva": "02898960907",
+                "formaGiuridica": null,
+                "stato": null,
+                "regione": null,
+                "provincia": null,
+                "comune": null,
+                "indirizzo": null,
+                "email": null,
+                "pec": null,
+                "telefono": null
+            },
+            "personale": {
+                "addettiIndeterminati": null,
+                "addettiDeterminati": null,
+                "addettiStagionali": 1
+            },
+            "personaleSpecializzato": {
+                "totaleOperatori": 1,
+                "qualifiche": [
+                    "Addetto all'estrazione e selezione del sughero"
+                ]
+            },
+            "attivita": [
+                {
+                    "id": 1,
+                    "comune": "BUDDUSÒ, BITTI, PATTADA, ALA’ DEI SARDI, VILLANOVA MONTELEONE, TEMPIO PAUSANIA, CALANGIANUS",
+                    "localita": "TERRITORIO COMUNALE",
+                    "superficie": "",
+                    "periodo": {
+                        "dal": "2019",
+                        "al": "2021"
+                    },
+                    "giornate": 200,
+                    "committente": {
+                        "tipo": "Pubblica e Privata",
+                        "nome": "ENTE FORESTE; TANCATI PRIVATI NEI COMUNI SUDDETTI"
+                    },
+                    "tipologie": [
+                        "Sughericoltura e/o estrazione e selezione del sughero"
+                    ],
+                    "note": ""
+                }
+            ],
+            "attrezzature": {
+                "motoseghe": 1,
+                "decespugliatori": null,
+                "cippatrici": null,
+                "gruCavo": null,
+                "processori": null,
+                "spaccalegna": null,
+                "torretteMobili": null,
+                "risine": null,
+                "scortecciatrici": null,
+                "verricelli": null,
+                "altro": null
+            },
+            "mezzi": {
+                "autocarri": 1,
+                "autocarriGru": null,
+                "miniEscavatori": null,
+                "escavatori": null,
+                "trattoriGommati": 0,
+                "trattoriCingolati": null,
+                "rimorchi1Asse": null,
+                "rimorchi2Assi": null,
+                "macchinaTaglioSpaccatura": null,
+                "altro": null
+            },
+            "metadata": {
+                "sezione": null,
+                "determina": null,
+                "ateco": null,
+                "attivitaPrevalente": null,
+                "attivitaSecondaria": null
+            }
         },
-        "personale": {
-            "addettiIndeterminati": null,
-            "addettiDeterminati": null,
-            "addettiStagionali": null
+        {
+            "id": 17,
+            "anagrafica": {
+                "numeroIscrizione": null,
+                "denominazione": "IMPRESA AGRICOLA",
+                "codiceFiscale": "CRTKSC80M49I851Y",
+                "partitaIva": "01194210918",
+                "formaGiuridica": "IMPRESA AGRICOLA DI CARTA KATIUSCIA FRANCESCA",
+                "stato": null,
+                "regione": null,
+                "provincia": null,
+                "comune": null,
+                "indirizzo": null,
+                "email": null,
+                "pec": null,
+                "telefono": null
+            },
+            "personale": {
+                "addettiIndeterminati": 0,
+                "addettiDeterminati": 4,
+                "addettiStagionali": 0
+            },
+            "personaleSpecializzato": {
+                "totaleOperatori": 5,
+                "qualifiche": [
+                    "COAUDIUVANTE",
+                    "OPERAIO QUALIFICATO - PULITURA TERRENI - UTILIZZO MEZZI AGRICOLI",
+                    "AUTISTA"
+                ]
+            },
+            "attivita": [
+                {
+                    "id": 1,
+                    "comune": "TONARA / DESULO / GADONI",
+                    "localita": "...TASCUSI/ SU FRUSCU",
+                    "superficie": "",
+                    "periodo": {
+                        "dal": "2019",
+                        "al": "2021"
+                    },
+                    "giornate": 206,
+                    "committente": {
+                        "tipo": "Pubblica",
+                        "nome": "FRATELLI MASSA"
+                    },
+                    "tipologie": [
+                        "Utilizzazioni boschive",
+                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                    ],
+                    "note": "TRONCHI DI PINO (REALIZZAZIONE PEDANE)"
+                },
+                {
+                    "id": 2,
+                    "comune": "TONARA / DESULO / GADONI",
+                    "localita": "...TASCUSI/ SU FRUSCU",
+                    "superficie": "",
+                    "periodo": {
+                        "dal": "2019",
+                        "al": "2021"
+                    },
+                    "giornate": 70,
+                    "committente": {
+                        "tipo": "Pubblica",
+                        "nome": "TECNOGARDEN"
+                    },
+                    "tipologie": [
+                        "Utilizzazioni boschive",
+                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                    ],
+                    "note": "BIOMASSA COMBUSTIBILE"
+                },
+                {
+                    "id": 3,
+                    "comune": "TONARA",
+                    "localita": "",
+                    "superficie": "",
+                    "periodo": {
+                        "dal": "2019",
+                        "al": "2019"
+                    },
+                    "giornate": 2,
+                    "committente": {
+                        "tipo": "Privata",
+                        "nome": "SERVICE CORK SRLS"
+                    },
+                    "tipologie": [
+                        "Sughericoltura e/o estrazione e selezione del sughero"
+                    ],
+                    "note": "SUGHERO"
+                },
+                {
+                    "id": 4,
+                    "comune": "TONARA / DESULO",
+                    "localita": "",
+                    "superficie": "",
+                    "periodo": {
+                        "dal": "2019",
+                        "al": "2021"
+                    },
+                    "giornate": 31,
+                    "committente": {
+                        "tipo": "Pubblica",
+                        "nome": "SCUOLE VILLAGRANDE STRISAILI"
+                    },
+                    "tipologie": [
+                        "Utilizzazioni boschive",
+                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                    ],
+                    "note": "FORNITURA CIPPATO"
+                },
+                {
+                    "id": 5,
+                    "comune": "TONARA / DESULO",
+                    "localita": "",
+                    "superficie": "",
+                    "periodo": {
+                        "dal": "2019",
+                        "al": "2021"
+                    },
+                    "giornate": 13,
+                    "committente": {
+                        "tipo": "Pubblica",
+                        "nome": "ENGIE"
+                    },
+                    "tipologie": [
+                        "Utilizzazioni boschive",
+                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                    ],
+                    "note": "FORNITURA CIPPATO SCUOLE ISTITUTO AGRARIO E LICEO SORGONO/RAGIONERIA ARITZO"
+                },
+                {
+                    "id": 6,
+                    "comune": "TONARA",
+                    "localita": "",
+                    "superficie": "",
+                    "periodo": {
+                        "dal": "2021",
+                        "al": "2021"
+                    },
+                    "giornate": 1,
+                    "committente": {
+                        "tipo": "Pubblica",
+                        "nome": "COMUNE TONARA"
+                    },
+                    "tipologie": [
+                        "Utilizzazioni boschive",
+                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                    ],
+                    "note": "CIPPATO"
+                },
+                {
+                    "id": 7,
+                    "comune": "TONARA",
+                    "localita": "",
+                    "superficie": "",
+                    "periodo": {
+                        "dal": "2019",
+                        "al": "2021"
+                    },
+                    "giornate": 10,
+                    "committente": {
+                        "tipo": "Pubblica",
+                        "nome": "COMUNE DI TERTENIA"
+                    },
+                    "tipologie": [
+                        "Utilizzazioni boschive",
+                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                    ],
+                    "note": "FORNITURA CIPPATO"
+                },
+                {
+                    "id": 8,
+                    "comune": "TONARA",
+                    "localita": "",
+                    "superficie": "",
+                    "periodo": {
+                        "dal": "2019",
+                        "al": "2020"
+                    },
+                    "giornate": 31,
+                    "committente": {
+                        "tipo": "Pubblica",
+                        "nome": "PISCINA ISILI COCOON"
+                    },
+                    "tipologie": [
+                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                    ],
+                    "note": "FORNITURA CIPPATO"
+                }
+            ],
+            "attrezzature": {
+                "motoseghe": 10,
+                "decespugliatori": 5,
+                "cippatrici": 1,
+                "gruCavo": null,
+                "processori": null,
+                "spaccalegna": 2,
+                "torretteMobili": null,
+                "risine": null,
+                "scortecciatrici": null,
+                "verricelli": 1,
+                "altro": null
+            },
+            "mezzi": {
+                "autocarri": 3,
+                "autocarriGru": 1,
+                "miniEscavatori": null,
+                "escavatori": 2,
+                "trattoriGommati": 2,
+                "trattoriCingolati": 2,
+                "rimorchi1Asse": 1,
+                "rimorchi2Assi": null,
+                "macchinaTaglioSpaccatura": 1,
+                "altro": " 2 pale meccaniche"
+            },
+            "metadata": {
+                "sezione": null,
+                "determina": null,
+                "ateco": null,
+                "attivitaPrevalente": null,
+                "attivitaSecondaria": null
+            }
         },
-        "personaleSpecializzato": {
-            "totaleOperatori": null,
-            "qualifiche": {}
-        },
-        "attivita": [],
-        "attrezzature": {
-            "motoseghe": null,
-            "decespugliatori": null,
-            "cippatrici": null,
-            "gruCavo": null,
-            "processori": null,
-            "spaccalegna": null,
-            "torretteMobili": null,
-            "risine": null,
-            "scortecciatrici": null,
-            "verricelli": null,
-            "altro": null
-        },
-        "mezzi": {
-            "autocarri": null,
-            "autocarriGru": null,
-            "miniEscavatori": null,
-            "escavatori": null,
-            "trattoriGommati": null,
-            "trattoriCingolati": null,
-            "rimorchi1Asse": null,
-            "rimorchi2Assi": null,
-            "macchinaTaglioSpaccatura": null,
-            "altro": null
-        },
-        "metadata": {
-            "sezione": null,
-            "determina": null,
-            "ateco": null,
-            "attivitaPrevalente": null,
-            "attivitaSecondaria": null
-        }
-    },
     {
         "id": 18,
         "anagrafica": {
