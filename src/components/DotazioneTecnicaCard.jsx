@@ -41,6 +41,7 @@ export default function DotazioneTecnicaCard({ impresa }) {
             <p><strong>Giroandatore:</strong> {impresa.attrezzature?.giroandatore || 0}</p>
 
             <p><strong>Tirabande:</strong> {impresa.attrezzature?.tirabande || 0}</p>
+             <p><strong>Altro:</strong> {impresa.attrezzature?.altro || 0}</p>
 
           </div>
 
@@ -79,6 +80,7 @@ export default function DotazioneTecnicaCard({ impresa }) {
             <p><strong>Rimorchi forestali (2 assi):</strong> {impresa.mezzi?.rimorchi2Assi || 0}</p>
 
             <p><strong>Macchina taglio/spaccatura:</strong> {impresa.mezzi?.macchinaTaglioSpaccatura || 0}</p>
+             <p><strong>Altro:</strong> {impresa.mezzi?.altro || 0}</p>
 
           </div>
 
