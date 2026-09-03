@@ -188,19 +188,7 @@ const risultati =
 
         </div>
 
-        <div className="col-md-4">
-
-          <div className="stat-card">
-
-            <h2>{totaleAddetti}</h2>
-
-            <small>
-              Addetti totali
-            </small>
-
-          </div>
-
-        </div>
+      
 
         <div className="col-md-4">
 
