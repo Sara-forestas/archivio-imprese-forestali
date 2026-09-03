@@ -87,40 +87,38 @@
                 "note": ""
             }
         ],
-                "attrezzature":{
-                    "motoseghe": 4,
-                    "decespugliatori": 3,
-                    "cippatrici": 1,
-                    "gruCavo": 0,
-                    "processori": 0,
-                    "spaccalegna": 1,
-                    "torretteMobili": 0,
-                    "risine": null,
-                    "scortecciatrici": 0,
-                    "verricelli": 1,
-                    "altro": null
-                },
-                "mezzi":
-                {
-                    "autocarri": 1,
-                    "autocarriGru": null,
-                    "miniEscavatori": 1,
-                    "escavatori": 0,
-                    "trattoriGommati": null,
-                    "trattoriCingolati": 0,
-                    "rimorchi1Asse": 0,
-                    "rimorchi2Assi": 0,
-                    "macchinaTaglioSpaccatura": null,
-                    "altro": null
-                },
-                "metadata":
-                {
-                    "sezione": null,
-                    "determina": null,
-                    "ateco": null,
-                    "attivitaPrevalente": null,
-                    "attivitaSecondaria": null
-                }
+        "attrezzature": {
+            "motoseghe": 4,
+            "decespugliatori": 3,
+            "cippatrici": 1,
+            "gruCavo": 0,
+            "processori": 0,
+            "spaccalegna": 1,
+            "torretteMobili": 0,
+            "risine": null,
+            "scortecciatrici": 0,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": 0,
+            "trattoriGommati": null,
+            "trattoriCingolati": 0,
+            "rimorchi1Asse": 0,
+            "rimorchi2Assi": 0,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
     },
     {
         "id": 2,
@@ -469,7 +467,7 @@
             "telefono": null
         },
         "personale": {
-            "addettiIndeterminati": null ,
+            "addettiIndeterminati": null,
             "addettiDeterminati": 7,
             "addettiStagionali": 30
         },
@@ -678,7 +676,7 @@
         },
         "personaleSpecializzato": {
             "totaleOperatori": 4,
-            "qualifiche": [ "Attività di gestione forestale", "Bracciante agricolo", "Autista"]
+            "qualifiche": [ "Attività di gestione forestale", "Bracciante agricolo", "Autista" ]
         },
         "attivita": [
             {
@@ -779,7 +777,7 @@
                 "periodo": {
                     "dal": "2020",
                     "al": "2020"
-                   
+
                 },
 
                 "giornate": 280,
@@ -1034,7 +1032,7 @@
                     "Gestione forestale per la valorizzazione del paesaggio",
                     "Interventi sulla viabilità forestale",
                     "Vivaistica forestale"
-                   
+
 
                 ],
 
@@ -1222,7 +1220,7 @@
         },
         "personaleSpecializzato": {
             "totaleOperatori": 2,
-            "qualifiche": ["motoseghista"]
+            "qualifiche": [ "motoseghista" ]
         },
         "attivita": [
             {
@@ -1744,397 +1742,397 @@
             "attivitaSecondaria": null
         }
     },
-    
-        {
-            "id": 15,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "BELVERDE SOCIETA’ COOPERATIVA",
-                "codiceFiscale": "01659180903",
-                "partitaIva": "01659180903",
-                "formaGiuridica": "BELVERDE SOCIETA’ COOPERATIVA",
-                "stato": null,
-                "regione": null,
-                "provincia": null,
-                "comune": null,
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": 4,
-                "addettiDeterminati": 4,
-                "addettiStagionali": 2
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 4,
-                "qualifiche": [
-                    "Addetto al Decespugliatore",
-                    "Potatore motoseghista",
-                    "Trattorista"
-                ]
-            },
-            "attivita": [
-                {
-                    "id": 1,
-                    "comune": "Buddusò",
-                    "localita": "",
-                    "superficie": "",
-                    "periodo": {
-                        "dal": "2017",
-                        "al": "2017"
-                    },
-                    "giornate": null,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "Comune di Buddusò"
-                    },
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Interventi sulla viabilità forestale"
-                    ],
-                    "note": ""
-                }
-            ],
-            "attrezzature": {
-                "motoseghe": 10,
-                "decespugliatori": 12,
-                "cippatrici": 1,
-                "gruCavo": null,
-                "processori": null,
-                "spaccalegna": 1,
-                "torretteMobili": null,
-                "risine": null,
-                "scortecciatrici": null,
-                "verricelli": null,
-                "altro": null
-            },
-            "mezzi": {
-                "autocarri": 3,
-                "autocarriGru": null,
-                "miniEscavatori": null,
-                "escavatori": null,
-                "trattoriGommati": 6,
-                "trattoriCingolati": null,
-                "rimorchi1Asse": null,
-                "rimorchi2Assi": null,
-                "macchinaTaglioSpaccatura": null,
-                "altro": null
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
-            }
+
+    {
+        "id": 15,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "BELVERDE SOCIETA’ COOPERATIVA",
+            "codiceFiscale": "01659180903",
+            "partitaIva": "01659180903",
+            "formaGiuridica": "BELVERDE SOCIETA’ COOPERATIVA",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
         },
-        {
-            "id": 16,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "CAR. MET. SRL",
-                "codiceFiscale": "02898960907",
-                "partitaIva": "02898960907",
-                "formaGiuridica": null,
-                "stato": null,
-                "regione": null,
-                "provincia": null,
-                "comune": null,
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": null,
-                "addettiDeterminati": null,
-                "addettiStagionali": 1
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 1,
-                "qualifiche": [
-                    "Addetto all'estrazione e selezione del sughero"
-                ]
-            },
-            "attivita": [
-                {
-                    "id": 1,
-                    "comune": "BUDDUSÒ, BITTI, PATTADA, ALA’ DEI SARDI, VILLANOVA MONTELEONE, TEMPIO PAUSANIA, CALANGIANUS",
-                    "localita": "TERRITORIO COMUNALE",
-                    "superficie": "",
-                    "periodo": {
-                        "dal": "2019",
-                        "al": "2021"
-                    },
-                    "giornate": 200,
-                    "committente": {
-                        "tipo": "Pubblica e Privata",
-                        "nome": "ENTE FORESTE; TANCATI PRIVATI NEI COMUNI SUDDETTI"
-                    },
-                    "tipologie": [
-                        "Sughericoltura e/o estrazione e selezione del sughero"
-                    ],
-                    "note": ""
-                }
-            ],
-            "attrezzature": {
-                "motoseghe": 1,
-                "decespugliatori": null,
-                "cippatrici": null,
-                "gruCavo": null,
-                "processori": null,
-                "spaccalegna": null,
-                "torretteMobili": null,
-                "risine": null,
-                "scortecciatrici": null,
-                "verricelli": null,
-                "altro": null
-            },
-            "mezzi": {
-                "autocarri": 1,
-                "autocarriGru": null,
-                "miniEscavatori": null,
-                "escavatori": null,
-                "trattoriGommati": 0,
-                "trattoriCingolati": null,
-                "rimorchi1Asse": null,
-                "rimorchi2Assi": null,
-                "macchinaTaglioSpaccatura": null,
-                "altro": null
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
-            }
+        "personale": {
+            "addettiIndeterminati": 4,
+            "addettiDeterminati": 4,
+            "addettiStagionali": 2
         },
-        {
-            "id": 17,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "IMPRESA AGRICOLA DI CARTA KATIUSCIA FRANCESCA",
-                "codiceFiscale": "CRTKSC80M49I851Y",
-                "partitaIva": "01194210918",
-                "formaGiuridica": "IMPRESA AGRICOLA DI CARTA KATIUSCIA FRANCESCA",
-                "stato": null,
-                "regione": null,
-                "provincia": null,
-                "comune": null,
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": 0,
-                "addettiDeterminati": 4,
-                "addettiStagionali": 0
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 5,
-                "qualifiche": [
-                    "COAUDIUVANTE",
-                    "OPERAIO QUALIFICATO - PULITURA TERRENI - UTILIZZO MEZZI AGRICOLI",
-                    "AUTISTA"
-                ]
-            },
-            "attivita": [
-                {
-                    "id": 1,
-                    "comune": "TONARA / DESULO / GADONI",
-                    "localita": "...TASCUSI/ SU FRUSCU",
-                    "superficie": "",
-                    "periodo": {
-                        "dal": "2019",
-                        "al": "2021"
-                    },
-                    "giornate": 206,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "FRATELLI MASSA"
-                    },
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
-                    ],
-                    "note": "TRONCHI DI PINO (REALIZZAZIONE PEDANE)"
-                },
-                {
-                    "id": 2,
-                    "comune": "TONARA / DESULO / GADONI",
-                    "localita": "...TASCUSI/ SU FRUSCU",
-                    "superficie": "",
-                    "periodo": {
-                        "dal": "2019",
-                        "al": "2021"
-                    },
-                    "giornate": 70,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "TECNOGARDEN"
-                    },
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
-                    ],
-                    "note": "BIOMASSA COMBUSTIBILE"
-                },
-                {
-                    "id": 3,
-                    "comune": "TONARA",
-                    "localita": "",
-                    "superficie": "",
-                    "periodo": {
-                        "dal": "2019",
-                        "al": "2019"
-                    },
-                    "giornate": 2,
-                    "committente": {
-                        "tipo": "Privata",
-                        "nome": "SERVICE CORK SRLS"
-                    },
-                    "tipologie": [
-                        "Sughericoltura e/o estrazione e selezione del sughero"
-                    ],
-                    "note": "SUGHERO"
-                },
-                {
-                    "id": 4,
-                    "comune": "TONARA / DESULO",
-                    "localita": "",
-                    "superficie": "",
-                    "periodo": {
-                        "dal": "2019",
-                        "al": "2021"
-                    },
-                    "giornate": 31,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "SCUOLE VILLAGRANDE STRISAILI"
-                    },
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
-                    ],
-                    "note": "FORNITURA CIPPATO"
-                },
-                {
-                    "id": 5,
-                    "comune": "TONARA / DESULO",
-                    "localita": "",
-                    "superficie": "",
-                    "periodo": {
-                        "dal": "2019",
-                        "al": "2021"
-                    },
-                    "giornate": 13,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "ENGIE"
-                    },
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
-                    ],
-                    "note": "FORNITURA CIPPATO SCUOLE ISTITUTO AGRARIO E LICEO SORGONO/RAGIONERIA ARITZO"
-                },
-                {
-                    "id": 6,
-                    "comune": "TONARA",
-                    "localita": "",
-                    "superficie": "",
-                    "periodo": {
-                        "dal": "2021",
-                        "al": "2021"
-                    },
-                    "giornate": 1,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "COMUNE TONARA"
-                    },
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
-                    ],
-                    "note": "CIPPATO"
-                },
-                {
-                    "id": 7,
-                    "comune": "TONARA",
-                    "localita": "",
-                    "superficie": "",
-                    "periodo": {
-                        "dal": "2019",
-                        "al": "2021"
-                    },
-                    "giornate": 10,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "COMUNE DI TERTENIA"
-                    },
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
-                    ],
-                    "note": "FORNITURA CIPPATO"
-                },
-                {
-                    "id": 8,
-                    "comune": "TONARA",
-                    "localita": "",
-                    "superficie": "",
-                    "periodo": {
-                        "dal": "2019",
-                        "al": "2020"
-                    },
-                    "giornate": 31,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "PISCINA ISILI COCOON"
-                    },
-                    "tipologie": [
-                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
-                    ],
-                    "note": "FORNITURA CIPPATO"
-                }
-            ],
-            "attrezzature": {
-                "motoseghe": 10,
-                "decespugliatori": 5,
-                "cippatrici": 1,
-                "gruCavo": null,
-                "processori": null,
-                "spaccalegna": 2,
-                "torretteMobili": null,
-                "risine": null,
-                "scortecciatrici": null,
-                "verricelli": 1,
-                "altro": null
-            },
-            "mezzi": {
-                "autocarri": 3,
-                "autocarriGru": 1,
-                "miniEscavatori": null,
-                "escavatori": 2,
-                "trattoriGommati": 2,
-                "trattoriCingolati": 2,
-                "rimorchi1Asse": 1,
-                "rimorchi2Assi": null,
-                "macchinaTaglioSpaccatura": 1,
-                "altro": " 2 pale meccaniche"
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
-            }
+        "personaleSpecializzato": {
+            "totaleOperatori": 4,
+            "qualifiche": [
+                "Addetto al Decespugliatore",
+                "Potatore motoseghista",
+                "Trattorista"
+            ]
         },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "Buddusò",
+                "localita": "",
+                "superficie": "",
+                "periodo": {
+                    "dal": "2017",
+                    "al": "2017"
+                },
+                "giornate": null,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Buddusò"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            }
+        ],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 12,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 3,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": 6,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 16,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "CAR. MET. SRL",
+            "codiceFiscale": "02898960907",
+            "partitaIva": "02898960907",
+            "formaGiuridica": null,
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 1
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 1,
+            "qualifiche": [
+                "Addetto all'estrazione e selezione del sughero"
+            ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "BUDDUSÒ, BITTI, PATTADA, ALA’ DEI SARDI, VILLANOVA MONTELEONE, TEMPIO PAUSANIA, CALANGIANUS",
+                "localita": "TERRITORIO COMUNALE",
+                "superficie": "",
+                "periodo": {
+                    "dal": "2019",
+                    "al": "2021"
+                },
+                "giornate": 200,
+                "committente": {
+                    "tipo": "Pubblica e Privata",
+                    "nome": "ENTE FORESTE; TANCATI PRIVATI NEI COMUNI SUDDETTI"
+                },
+                "tipologie": [
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+                ],
+                "note": ""
+            }
+        ],
+        "attrezzature": {
+            "motoseghe": 1,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": 0,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 17,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "IMPRESA AGRICOLA DI CARTA KATIUSCIA FRANCESCA",
+            "codiceFiscale": "CRTKSC80M49I851Y",
+            "partitaIva": "01194210918",
+            "formaGiuridica": "IMPRESA AGRICOLA DI CARTA KATIUSCIA FRANCESCA",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 0,
+            "addettiDeterminati": 4,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 5,
+            "qualifiche": [
+                "COAUDIUVANTE",
+                "OPERAIO QUALIFICATO - PULITURA TERRENI - UTILIZZO MEZZI AGRICOLI",
+                "AUTISTA"
+            ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "TONARA / DESULO / GADONI",
+                "localita": "...TASCUSI/ SU FRUSCU",
+                "superficie": "",
+                "periodo": {
+                    "dal": "2019",
+                    "al": "2021"
+                },
+                "giornate": 206,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "FRATELLI MASSA"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "TRONCHI DI PINO (REALIZZAZIONE PEDANE)"
+            },
+            {
+                "id": 2,
+                "comune": "TONARA / DESULO / GADONI",
+                "localita": "...TASCUSI/ SU FRUSCU",
+                "superficie": "",
+                "periodo": {
+                    "dal": "2019",
+                    "al": "2021"
+                },
+                "giornate": 70,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "TECNOGARDEN"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "BIOMASSA COMBUSTIBILE"
+            },
+            {
+                "id": 3,
+                "comune": "TONARA",
+                "localita": "",
+                "superficie": "",
+                "periodo": {
+                    "dal": "2019",
+                    "al": "2019"
+                },
+                "giornate": 2,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "SERVICE CORK SRLS"
+                },
+                "tipologie": [
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+                ],
+                "note": "SUGHERO"
+            },
+            {
+                "id": 4,
+                "comune": "TONARA / DESULO",
+                "localita": "",
+                "superficie": "",
+                "periodo": {
+                    "dal": "2019",
+                    "al": "2021"
+                },
+                "giornate": 31,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "SCUOLE VILLAGRANDE STRISAILI"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "FORNITURA CIPPATO"
+            },
+            {
+                "id": 5,
+                "comune": "TONARA / DESULO",
+                "localita": "",
+                "superficie": "",
+                "periodo": {
+                    "dal": "2019",
+                    "al": "2021"
+                },
+                "giornate": 13,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "ENGIE"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "FORNITURA CIPPATO SCUOLE ISTITUTO AGRARIO E LICEO SORGONO/RAGIONERIA ARITZO"
+            },
+            {
+                "id": 6,
+                "comune": "TONARA",
+                "localita": "",
+                "superficie": "",
+                "periodo": {
+                    "dal": "2021",
+                    "al": "2021"
+                },
+                "giornate": 1,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE TONARA"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "CIPPATO"
+            },
+            {
+                "id": 7,
+                "comune": "TONARA",
+                "localita": "",
+                "superficie": "",
+                "periodo": {
+                    "dal": "2019",
+                    "al": "2021"
+                },
+                "giornate": 10,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI TERTENIA"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "FORNITURA CIPPATO"
+            },
+            {
+                "id": 8,
+                "comune": "TONARA",
+                "localita": "",
+                "superficie": "",
+                "periodo": {
+                    "dal": "2019",
+                    "al": "2020"
+                },
+                "giornate": 31,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "PISCINA ISILI COCOON"
+                },
+                "tipologie": [
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "FORNITURA CIPPATO"
+            }
+        ],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 5,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 2,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 3,
+            "autocarriGru": 1,
+            "miniEscavatori": null,
+            "escavatori": 2,
+            "trattoriGommati": 2,
+            "trattoriCingolati": 2,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": 1,
+            "altro": " 2 pale meccaniche"
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
     {
         "id": 18,
         "anagrafica": {
@@ -4735,7 +4733,7 @@
             "rimorchi1Asse": 1,
             "rimorchi2Assi": null,
             "macchinaTaglioSpaccatura": 1,
-            "altro": ["mini pala meccanica", "motocarriola", "canalette"]
+            "altro": [ "mini pala meccanica", "motocarriola", "canalette" ]
         },
         "metadata": {
             "sezione": null,
@@ -4836,7 +4834,7 @@
             "rimorchi1Asse": 0,
             "rimorchi2Assi": 2,
             "macchinaTaglioSpaccatura": 1,
-            "altro": ["pale cingolate", "mini pala meccanica", "motocarriola", "abbattitrice forestale", "trasportatore forestale"]
+            "altro": [ "pale cingolate", "mini pala meccanica", "motocarriola", "abbattitrice forestale", "trasportatore forestale" ]
         },
         "metadata": {
             "sezione": null,
@@ -5059,7 +5057,7 @@
             "rimorchi1Asse": 1,
             "rimorchi2Assi": 1,
             "macchinaTaglioSpaccatura": 0,
-            "altro": ["Terna meccanica", "Pala caricatrice"]
+            "altro": [ "Terna meccanica", "Pala caricatrice" ]
         },
         "metadata": {
             "sezione": null,
@@ -5127,7 +5125,7 @@
             "risine": null,
             "scortecciatrici": null,
             "verricelli": null,
-            "altro": ["stirpatore"]
+            "altro": [ "stirpatore" ]
         },
         "mezzi": {
             "autocarri": 2,
@@ -5139,7 +5137,7 @@
             "rimorchi1Asse": null,
             "rimorchi2Assi": null,
             "macchinaTaglioSpaccatura": null,
-            "altro": ["terna", "pala", "daily/Iveco"]
+            "altro": [ "terna", "pala", "daily/Iveco" ]
         },
         "metadata": {
             "sezione": null,
@@ -5220,7 +5218,7 @@
             "rimorchi1Asse": null,
             "rimorchi2Assi": null,
             "macchinaTaglioSpaccatura": null,
-            "altro": ["daily"]
+            "altro": [ "daily" ]
         },
         "metadata": {
             "sezione": null,
@@ -5505,7 +5503,7 @@
             "rimorchi1Asse": null,
             "rimorchi2Assi": null,
             "macchinaTaglioSpaccatura": null,
-            "altro": ["MAN"]
+            "altro": [ "MAN" ]
         },
         "metadata": {
             "sezione": null,
@@ -6028,1138 +6026,1138 @@
             "attivitaPrevalente": null,
             "attivitaSecondaria": null
         }
+    },
+    {
+        "id": 44,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Il Giardino del Legno",
+            "codiceFiscale": "01035620952",
+            "partitaIva": null,
+            "formaGiuridica": null,
+            "stato": "ITA",
+            "regione": null,
+            "provincia": "OR",
+            "comune": "Simaxis",
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
         },
-        {
-            "id": 44,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "Il Giardino del Legno",
-                "codiceFiscale": "01035620952",
-                "partitaIva": null,
-                "formaGiuridica": null,
-                "stato": "ITA",
-                "regione": null,
-                "provincia": "OR",
-                "comune": "Simaxis",
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": null,
-                "addettiDeterminati": null,
-                "addettiStagionali": null
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": null,
-                "qualifiche": {}
-            },
-            "attivita": [],
-            "attrezzature": {
-                "motoseghe": null,
-                "decespugliatori": null,
-                "cippatrici": null,
-                "gruCavo": null,
-                "processori": null,
-                "spaccalegna": null,
-                "torretteMobili": null,
-                "risine": null,
-                "scortecciatrici": null,
-                "verricelli": null,
-                "altro": null
-            },
-            "mezzi": {
-                "autocarri": null,
-                "autocarriGru": null,
-                "miniEscavatori": null,
-                "escavatori": null,
-                "trattoriGommati": null,
-                "trattoriCingolati": null,
-                "rimorchi1Asse": null,
-                "rimorchi2Assi": null,
-                "macchinaTaglioSpaccatura": null,
-                "altro": null
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
-            }
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
         },
-        {
-            "id": 45,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "IMET DI ATZENI DANILO",
-                "codiceFiscale": "",
-                "partitaIva": "01019600954",
-                "formaGiuridica": "IMET DI ATZENI DANILO",
-                "stato": null,
-                "regione": null,
-                "provincia": null,
-                "comune": "Morgongiori",
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": 33,
-                "addettiDeterminati": 12,
-                "addettiStagionali": 0
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 0,
-                "qualifiche": []
-            },
-            "attivita": [
-                {
-                    "id": 1,
-                    "comune": "Morgongiori-Seui-Sorso-Ballao",
-                    "localita": "varie",
-                    "superficie": null,
-                    "periodo": {
-                        "dal": "2017",
-                        "al": "2022"
-                    },
-                    "giornate": null,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "COMUNE DI MORGONGIORI"
-                    },
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Interventi sulla viabilità forestale",
-                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
-                    ],
-                    "note": ""
-                }
-            ],
-            "attrezzature": {
-                "motoseghe": 4,
-                "decespugliatori": null,
-                "cippatrici": 2,
-                "gruCavo": null,
-                "processori": null,
-                "spaccalegna": null,
-                "torretteMobili": null,
-                "risine": null,
-                "scortecciatrici": null,
-                "verricelli": null,
-                "altro": null
-            },
-            "mezzi": {
-                "autocarri": 6,
-                "autocarriGru": null,
-                "miniEscavatori": null,
-                "escavatori": 3,
-                "trattoriGommati": 1,
-                "trattoriCingolati": null,
-                "rimorchi1Asse": null,
-                "rimorchi2Assi": 2,
-                "macchinaTaglioSpaccatura": null,
-                "altro": 2
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
-            }
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": {}
         },
-        {
-            "id": 46,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "Import Export Sugheri",
-                "codiceFiscale": null, 
-                "partitaIva": "01532330915",
-                "formaGiuridica": "S.R.L.",
-                "stato": null,
-                "regione": null,
-                "provincia": "OR",
-                "comune": "Villanovatulo",
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": null,
-                "addettiDeterminati": null,
-                "addettiStagionali": 27
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 0,
-                "qualifiche": []
-            },
-            "attivita": [
-                {
-                    "id": 1,
-                    "comune": "IGLESIAS",
-                    "localita": "BELLO COSI",
-                    "superficie": "180 ha",
-                    "periodo": {
-                        "dal": "2018-05",
-                        "al": "2018-09"
-                    },
-                    "giornate": 100,
-                    "committente": {
-                        "tipo": "Privata",
-                        "nome": "IMPORT EXPORT SUGHERI"
-                    },
-                    "tipologie": [
-                        "Sughericoltura e/o estrazione e selezione del sughero"
-                    ],
-                    "note": ""
-                }
-            ],
-            "attrezzature": {
-                "motoseghe": 5,
-                "decespugliatori": 3,
-                "cippatrici": 2,
-                "gruCavo": null,
-                "processori": null,
-                "spaccalegna": null,
-                "torretteMobili": null,
-                "risine": null,
-                "scortecciatrici": null,
-                "verricelli": null,
-                "altro": null
-            },
-            "mezzi": {
-                "autocarri": 4,
-                "autocarriGru": null,
-                "miniEscavatori": null,
-                "escavatori": null,
-                "trattoriGommati": null,
-                "trattoriCingolati": 1,
-                "rimorchi1Asse": null,
-                "rimorchi2Assi": null,
-                "macchinaTaglioSpaccatura": null,
-                "altro": null
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
-            }
+        "attivita": [],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
         },
-        {
-            "id": 47,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "IP IMPRESA SERVIZI SRL",
-                "codiceFiscale": "01174050953",
-                "partitaIva": "01174050953",
-                "formaGiuridica": "IP IMPRESA SERVIZI SRL",
-                "stato": null,
-                "regione": null,
-                "provincia": "OR",
-                "comune": "Siamaggiore",
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": 37,
-                "addettiDeterminati": 11,
-                "addettiStagionali": 7
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 0,
-                "qualifiche": []
-            },
-            "attivita": [
-                {
-                    "id": 1,
-                    "comune": "CAGLIARI",
-                    "localita": "Pressi della statale 195 tra la nuova Via San Paolo e la laguna di Santa Gilla",
-                    "superficie": "4,70 ettari",
-                    "periodo": {
-                        "dal": "2022-06",
-                        "al": null
-                    },
-                    "giornate": 180,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "CITTA’ METROPOLITANA DI CAGLIARI"
-                    },
-                    "tipologie": [
-                        "Gestione forestale per la valorizzazione del paesaggio"
-                    ],
-                    "note": "Oggetto gara: Lavori relativi all’Intervento di forestazione urbana da effettuarsi in zona S. Paolo Cagliari - CUI : L00510810922202100044 – CUP: J21B21003800001 – CIG:92163959BF"
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 45,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "IMET DI ATZENI DANILO",
+            "codiceFiscale": "",
+            "partitaIva": "01019600954",
+            "formaGiuridica": "IMET DI ATZENI DANILO",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Morgongiori",
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 33,
+            "addettiDeterminati": 12,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 0,
+            "qualifiche": []
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "Morgongiori-Seui-Sorso-Ballao",
+                "localita": "varie",
+                "superficie": null,
+                "periodo": {
+                    "dal": "2017",
+                    "al": "2022"
                 },
-                {
-                    "id": 2,
-                    "comune": "CAGLIARI",
-                    "localita": "Nella parte meridionale del colle di Monte Urpinu",
-                    "superficie": "6 ettari circa",
-                    "periodo": {
-                        "dal": "2022-10-18",
-                        "al": null
-                    },
-                    "giornate": 122,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "CITTA’ METROPOLITANA DI CAGLIARI"
-                    },
-                    "tipologie": [
-                        "Gestione forestale per la valorizzazione del paesaggio"
-                    ],
-                    "note": "Oggetto gara: “Un Bosco per la Citta la Foresta Urbana di Monte Urpinu - Comune di Cagliari ”- CUP: J21B21004780001 - CIG: 9299657FB7"
-                }
-            ],
-            "attrezzature": {
-                "motoseghe": 20,
-                "decespugliatori": 50,
-                "cippatrici": 2,
-                "gruCavo": 0,
-                "processori": 0,
-                "spaccalegna": 1,
-                "torretteMobili": 0,
-                "risine": 0,
-                "scortecciatrici": 0,
-                "verricelli": 0,
-                "altro": null
-            },
-            "mezzi": {
-                "autocarri": 35,
-                "autocarriGru": 1,
-                "miniEscavatori": 2,
-                "escavatori": 1,
-                "trattoriGommati": 5,
-                "trattoriCingolati": 1,
-                "rimorchi1Asse": 1,
-                "rimorchi2Assi": 1,
-                "macchinaTaglioSpaccatura": 0,
-                "altro": null
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
+                "giornate": null,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI MORGONGIORI"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Interventi sulla viabilità forestale",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
             }
+        ],
+        "attrezzature": {
+            "motoseghe": 4,
+            "decespugliatori": null,
+            "cippatrici": 2,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
         },
-        {
-            "id": 48,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "IS TRUISCUS SOC. COOP. AGRICOLA",
-                "codiceFiscale": "00499690923",
-                "partitaIva": "00499690923",
-                "formaGiuridica": "COOPERATIVA AGRICOLA",
-                "stato": null,
-                "regione": null,
-                "provincia": "SU",
-                "comune": "Teulada",
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": 0,
-                "addettiDeterminati": 6,
-                "addettiStagionali": 0
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 5,
-                "qualifiche": [
-                    "Imprenditore Agricolo Professionale",
-                    "Operaio Agricolo qualificato con mansioni silvicole e forestali"
-                ]
-            },
-            "attivita": [
-                {
-                    "id": 1,
-                    "comune": "TEULADA",
-                    "localita": "IS TRUISCUS – SU DI EGUAS",
-                    "superficie": "Ha 25,50",
-                    "periodo": {
-                        "dal": "2018-03",
-                        "al": "2020-09"
-                    },
-                    "giornate": 1600,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "TERRENI MONTE PASCOLI REGIONE SARDEGNA – L.R. 44/76"
-                    },
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Interventi per la difesa fitosanitaria e prevenzione AIB",
-                        "Gestione forestale per la valorizzazione del paesaggio"
-                    ],
-                    "note": "Le giornate lavorative si riferiscono a n° 7 addetti per il periodo sopraindicato."
-                }
-            ],
-            "attrezzature": {
-                "motoseghe": 6,
-                "decespugliatori": 6,
-                "cippatrici": 1,
-                "gruCavo": null,
-                "processori": null,
-                "spaccalegna": null,
-                "torretteMobili": null,
-                "risine": null,
-                "scortecciatrici": null,
-                "verricelli": null,
-                "altro": null
-            },
-            "mezzi": {
-                "autocarri": null,
-                "autocarriGru": null,
-                "miniEscavatori": null,
-                "escavatori": null,
-                "trattoriGommati": 1,
-                "trattoriCingolati": null,
-                "rimorchi1Asse": null,
-                "rimorchi2Assi": null,
-                "macchinaTaglioSpaccatura": null,
-                "altro": ["retroescavatore"]
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
+        "mezzi": {
+            "autocarri": 6,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": 3,
+            "trattoriGommati": 1,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": 2,
+            "macchinaTaglioSpaccatura": null,
+            "altro": 2
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 46,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Import Export Sugheri",
+            "codiceFiscale": null,
+            "partitaIva": "01532330915",
+            "formaGiuridica": "S.R.L.",
+            "stato": null,
+            "regione": null,
+            "provincia": "OR",
+            "comune": "Villanovatulo",
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 27
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 0,
+            "qualifiche": []
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "IGLESIAS",
+                "localita": "BELLO COSI",
+                "superficie": "180 ha",
+                "periodo": {
+                    "dal": "2018-05",
+                    "al": "2018-09"
+                },
+                "giornate": 100,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "IMPORT EXPORT SUGHERI"
+                },
+                "tipologie": [
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+                ],
+                "note": ""
             }
+        ],
+        "attrezzature": {
+            "motoseghe": 5,
+            "decespugliatori": 3,
+            "cippatrici": 2,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
         },
-        {
-            "id": 49,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "RAGIONE SOCIALE LAG FORESTE S.A.S. DI GHIRRA ALBERTO & C.",
-                "codiceFiscale": "02730910904",
-                "partitaIva": "02730910904",
-                "formaGiuridica": "S.A.S.",
-                "stato": null,
-                "regione": null,
-                "provincia": "SS",
-                "comune": "Alà dei Sardi",
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
+        "mezzi": {
+            "autocarri": 4,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": 1,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 47,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "IP IMPRESA SERVIZI SRL",
+            "codiceFiscale": "01174050953",
+            "partitaIva": "01174050953",
+            "formaGiuridica": "IP IMPRESA SERVIZI SRL",
+            "stato": null,
+            "regione": null,
+            "provincia": "OR",
+            "comune": "Siamaggiore",
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 37,
+            "addettiDeterminati": 11,
+            "addettiStagionali": 7
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 0,
+            "qualifiche": []
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "CAGLIARI",
+                "localita": "Pressi della statale 195 tra la nuova Via San Paolo e la laguna di Santa Gilla",
+                "superficie": "4,70 ettari",
+                "periodo": {
+                    "dal": "2022-06",
+                    "al": null
+                },
+                "giornate": 180,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "CITTA’ METROPOLITANA DI CAGLIARI"
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio"
+                ],
+                "note": "Oggetto gara: Lavori relativi all’Intervento di forestazione urbana da effettuarsi in zona S. Paolo Cagliari - CUI : L00510810922202100044 – CUP: J21B21003800001 – CIG:92163959BF"
             },
-            "personale": {
-                "addettiIndeterminati": 1,
-                "addettiDeterminati": null,
-                "addettiStagionali": null
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 0,
-                "qualifiche": []
-            },
-            "attivita": [
-                {
-                    "id": 1,
-                    "comune": "BUDDUSÒ, BERCHIDDA, BITTI, ORANI, ONIFERI, OROTELLI, NUORO, ORUNE, VILLANOVA MONTE LEONE, NUGHEDU SANTA VITTORIA, OVIDDA",
-                    "localita": "TERRITORIO COMUNALE",
-                    "superficie": null,
-                    "periodo": {
-                        "dal": "2018",
-                        "al": "2021"
-                    },
-                    "giornate": null,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "ENTE FORESTE"
-                    },
-                    "tipologie": [
-                        "Sughericoltura e/o estrazione e selezione del sughero"
-                    ],
-                    "note": "CIRCA 240 GIORNI; TANCATI PRIVATI NEI COMUNI SUDDETTI"
-                }
-            ],
-            "attrezzature": {
-                "motoseghe": 3,
-                "decespugliatori": null,
-                "cippatrici": null,
-                "gruCavo": null,
-                "processori": null,
-                "spaccalegna": null,
-                "torretteMobili": null,
-                "risine": null,
-                "scortecciatrici": null,
-                "verricelli": null,
-                "altro": null
-            },
-            "mezzi": {
-                "autocarri": 2,
-                "autocarriGru": null,
-                "miniEscavatori": null,
-                "escavatori": null,
-                "trattoriGommati": 1,
-                "trattoriCingolati": null,
-                "rimorchi1Asse": null,
-                "rimorchi2Assi": null,
-                "macchinaTaglioSpaccatura": null,
-                "altro": null
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
+            {
+                "id": 2,
+                "comune": "CAGLIARI",
+                "localita": "Nella parte meridionale del colle di Monte Urpinu",
+                "superficie": "6 ettari circa",
+                "periodo": {
+                    "dal": "2022-10-18",
+                    "al": null
+                },
+                "giornate": 122,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "CITTA’ METROPOLITANA DI CAGLIARI"
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio"
+                ],
+                "note": "Oggetto gara: “Un Bosco per la Citta la Foresta Urbana di Monte Urpinu - Comune di Cagliari ”- CUP: J21B21004780001 - CIG: 9299657FB7"
             }
+        ],
+        "attrezzature": {
+            "motoseghe": 20,
+            "decespugliatori": 50,
+            "cippatrici": 2,
+            "gruCavo": 0,
+            "processori": 0,
+            "spaccalegna": 1,
+            "torretteMobili": 0,
+            "risine": 0,
+            "scortecciatrici": 0,
+            "verricelli": 0,
+            "altro": null
         },
-        {
-            "id": 50,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "LAVRA SUGHERI S.R.L.",
-                "codiceFiscale": "02806370900",
-                "partitaIva": "02806370900",
-                "formaGiuridica": "LAVRA SUGHERI S.R.L.",
-                "stato": "ITA",
-                "regione": "Sardegna",
-                "provincia": "SS",
-                "comune": "Olbia",
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": 9,
-                "addettiDeterminati": 1,
-                "addettiStagionali": 50
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 15,
-                "qualifiche": {}
-            },
-            "attivita": [
+        "mezzi": {
+            "autocarri": 35,
+            "autocarriGru": 1,
+            "miniEscavatori": 2,
+            "escavatori": 1,
+            "trattoriGommati": 5,
+            "trattoriCingolati": 1,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": 1,
+            "macchinaTaglioSpaccatura": 0,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 48,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "IS TRUISCUS SOC. COOP. AGRICOLA",
+            "codiceFiscale": "00499690923",
+            "partitaIva": "00499690923",
+            "formaGiuridica": "COOPERATIVA AGRICOLA",
+            "stato": null,
+            "regione": null,
+            "provincia": "SU",
+            "comune": "Teulada",
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 0,
+            "addettiDeterminati": 6,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 5,
+            "qualifiche": [
+                "Imprenditore Agricolo Professionale",
+                "Operaio Agricolo qualificato con mansioni silvicole e forestali"
+            ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "TEULADA",
+                "localita": "IS TRUISCUS – SU DI EGUAS",
+                "superficie": "Ha 25,50",
+                "periodo": {
+                    "dal": "2018-03",
+                    "al": "2020-09"
+                },
+                "giornate": 1600,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "TERRENI MONTE PASCOLI REGIONE SARDEGNA – L.R. 44/76"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB",
+                    "Gestione forestale per la valorizzazione del paesaggio"
+                ],
+                "note": "Le giornate lavorative si riferiscono a n° 7 addetti per il periodo sopraindicato."
+            }
+        ],
+        "attrezzature": {
+            "motoseghe": 6,
+            "decespugliatori": 6,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": 1,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": [ "retroescavatore" ]
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 49,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "RAGIONE SOCIALE LAG FORESTE S.A.S. DI GHIRRA ALBERTO & C.",
+            "codiceFiscale": "02730910904",
+            "partitaIva": "02730910904",
+            "formaGiuridica": "S.A.S.",
+            "stato": null,
+            "regione": null,
+            "provincia": "SS",
+            "comune": "Alà dei Sardi",
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 1,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 0,
+            "qualifiche": []
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "BUDDUSÒ, BERCHIDDA, BITTI, ORANI, ONIFERI, OROTELLI, NUORO, ORUNE, VILLANOVA MONTE LEONE, NUGHEDU SANTA VITTORIA, OVIDDA",
+                "localita": "TERRITORIO COMUNALE",
+                "superficie": null,
+                "periodo": {
+                    "dal": "2018",
+                    "al": "2021"
+                },
+                "giornate": null,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "ENTE FORESTE"
+                },
+                "tipologie": [
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+                ],
+                "note": "CIRCA 240 GIORNI; TANCATI PRIVATI NEI COMUNI SUDDETTI"
+            }
+        ],
+        "attrezzature": {
+            "motoseghe": 3,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": 1,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 50,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "LAVRA SUGHERI S.R.L.",
+            "codiceFiscale": "02806370900",
+            "partitaIva": "02806370900",
+            "formaGiuridica": "LAVRA SUGHERI S.R.L.",
+            "stato": "ITA",
+            "regione": "Sardegna",
+            "provincia": "SS",
+            "comune": "Olbia",
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 9,
+            "addettiDeterminati": 1,
+            "addettiStagionali": 50
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 15,
+            "qualifiche": {}
+        },
+        "attivita": [
 
-                {
-                    "id": 1,
-                    "comune": "Ollolai",
-                    "localita": "Ollolai",
-                    "superficie": "10 ha",
+            {
+                "id": 1,
+                "comune": "Ollolai",
+                "localita": "Ollolai",
+                "superficie": "10 ha",
 
-                    "periodo": {
-                        "dal": "2020-05",
-                        "al": "2020-05"
-                    },
-
-                    "giornate": 6,
-
-                    "committente": {
-                        "tipo": "Privato",
-                        "nome": "Arbau Daniele"
-                    },
-
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
-                        "Sughericoltura e/o estrazione e selezione del sughero",
-                        "Interventi sulla viabilità forestale"
-                    ],
-
-                    "note": ""
+                "periodo": {
+                    "dal": "2020-05",
+                    "al": "2020-05"
                 },
 
-                {
-                    "id": 2,
-                    "comune": "Illorai",
-                    "localita": "Iscras",
-                    "superficie": "60 ha",
+                "giornate": 6,
 
-                    "periodo": {
-                        "dal": "2020-05",
-                        "al": "2020-05"
-                    },
-
-                    "giornate": 5,
-
-                    "committente": {
-                        "tipo": "Privato",
-                        "nome": "Carta Costantino"
-                    },
-
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Valorizzazione produzioni forestali",
-                        "Sughericoltura",
-                        "Viabilità forestale"
-                    ],
-
-                    "note": ""
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Arbau Daniele"
                 },
-                {
-                    "id": 3,
-                    "comune": "Montresta",
-                    "localita": "SAS CAMPEDAS; BENAEGHIU",
-                    "superficie": "380 ha",
 
-                    "periodo": {
-                        "dal": "2020-07",
-                        "al": "2020-05"
-                    },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
 
-                    "giornate": 38,
-
-                    "committente": {
-                        "tipo": "Privato",
-                        "nome": "Az. Agricola Delitala"
-                    },
-
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
-                        "Sughericoltura e/o estrazione e selezione del sughero",
-                        "Interventi sulla viabilità forestale"
-                    ],
-
-                    "note": ""
-                },
-                {
-                    "id": 4,
-                    "comune": "Anela",
-                    "localita": "SU FERULARZU",
-                    "superficie": "78831 ha",
-
-                    "periodo": {
-                        "dal": "2020-07"
-
-                    },
-
-                    "giornate": 2,
-
-                    "committente": {
-                        "tipo": "Pubblico",
-                        "nome": "Comune di Anela"
-                    },
-
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
-                        "Sughericoltura e/o estrazione e selezione del sughero",
-                        "Interventi sulla viabilità forestale"
-                    ],
-
-                    "note": ""
-                },
-                {
-                    "id": 5,
-                    "comune": "Sinnai",
-                    "localita": "FRAZ. SAN GREGORIO",
-                    "superficie": "100 ha",
-
-                    "periodo": {
-                        "dal": "2021-05",
-                        "al": "2021-06"
-
-                    },
-
-                    "giornate": 41,
-
-                    "committente": {
-                        "tipo": "Privato",
-                        "nome": "Palomba Raffaele"
-                    },
-
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
-                        "Sughericoltura e/o estrazione e selezione del sughero",
-                        "Interventi sulla viabilità forestale"
-                    ],
-
-                    "note": ""
-                },
-                {
-                    "id": 6,
-                    "comune": "Orotelli,Oniferi",
-                    "localita": "Orotelli,Oniferi",
-                    "superficie": "110 ha",
-
-                    "periodo": {
-                        "dal": "2021-05",
-                        "al": "2021-06"
-
-                    },
-
-                    "giornate": 19,
-
-                    "committente": {
-                        "tipo": "Privato",
-                        "nome": "Sanna Maria Caterina"
-                    },
-
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
-                        "Sughericoltura e/o estrazione e selezione del sughero",
-                        "Interventi sulla viabilità forestale"
-                    ],
-
-                    "note": ""
-                },
-                {
-                    "id": 7,
-                    "comune": "Orune",
-                    "localita": "SA SERRA",
-                    "superficie": "100 ha",
-
-                    "periodo": {
-                        "dal": "2021-07",
-                        "al": "2021-08"
-
-                    },
-
-                    "giornate": 11,
-
-                    "committente": {
-                        "tipo": "Privato",
-                        "nome": "Carta Graziella"
-                    },
-
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
-                        "Sughericoltura e/o estrazione e selezione del sughero",
-                        "Interventi sulla viabilità forestale"
-                    ],
-
-                    "note": ""
-                },
-                {
-                    "id": 8,
-                    "comune": "Orune",
-                    "localita": "SA SERRA",
-                    "superficie": "100 ha",
-
-                    "periodo": {
-                        "dal": "2021-08",
-                        "al": "2021-08"
-
-                    },
-
-                    "giornate": 15,
-
-                    "committente": {
-                        "tipo": "Privato",
-                        "nome": "Porcu Giovanna"
-                    },
-
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
-                        "Sughericoltura e/o estrazione e selezione del sughero",
-                        "Interventi sulla viabilità forestale"
-                    ],
-
-                    "note": ""
-                },
-                {
-                    "id": 9,
-                    "comune": "Aggius",
-                    "localita": "LA FRASSATA + PARCO DI SANTA DEGNA",
-                    "superficie": "578 piante",
-
-                    "periodo": {
-                        "dal": "2021-08",
-                        "al": "2021-08"
-
-                    },
-
-                    "giornate": 4,
-
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "Forestas"
-                    },
-
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
-                        "Sughericoltura e/o estrazione e selezione del sughero",
-                        "Interventi sulla viabilità forestale"
-                    ],
-
-                    "note": "Da finire di estrarre nella stagione 2022."
-                }
-
-
-            ],
-            "attrezzature": {
-                "motoseghe": 10,
-                "decespugliatori": 2,
-                "cippatrici": 0,
-                "gruCavo": 0,
-                "processori": 0,
-                "spaccalegna": 0,
-                "torretteMobili": 0,
-                "potatore": 3,
-                "tranciaRotativa": 2,
-                "segaAnastro": 3,
-                "risine": null,
-                "scortecciatrici": 0,
-                "verricelli": 10,
-                "forbiceElettronica": 1,
-                "giroandatore": 1,
-                "tirabande": 8,
-                "altro": null
+                "note": ""
             },
-            "mezzi": {
-                "autocarri": 15,
-                "autocarriGru": null,
-                "miniEscavatori": 1,
-                "palaCingolata": 1,
-                "escavatore": 0,
-                "palaMeccanica": 1,
-                "trattoriGommati": 4,
-                "trattoriCingolati": 1,
-                "rimorchi1Asse": 6,
-                "rimorchi2Assi": 0,
-                "macchinaTaglioSpaccatura": null,
-                "altro": null
+
+            {
+                "id": 2,
+                "comune": "Illorai",
+                "localita": "Iscras",
+                "superficie": "60 ha",
+
+                "periodo": {
+                    "dal": "2020-05",
+                    "al": "2020-05"
+                },
+
+                "giornate": 5,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Carta Costantino"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Valorizzazione produzioni forestali",
+                    "Sughericoltura",
+                    "Viabilità forestale"
+                ],
+
+                "note": ""
             },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
+            {
+                "id": 3,
+                "comune": "Montresta",
+                "localita": "SAS CAMPEDAS; BENAEGHIU",
+                "superficie": "380 ha",
+
+                "periodo": {
+                    "dal": "2020-07",
+                    "al": "2020-05"
+                },
+
+                "giornate": 38,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Az. Agricola Delitala"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 4,
+                "comune": "Anela",
+                "localita": "SU FERULARZU",
+                "superficie": "78831 ha",
+
+                "periodo": {
+                    "dal": "2020-07"
+
+                },
+
+                "giornate": 2,
+
+                "committente": {
+                    "tipo": "Pubblico",
+                    "nome": "Comune di Anela"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 5,
+                "comune": "Sinnai",
+                "localita": "FRAZ. SAN GREGORIO",
+                "superficie": "100 ha",
+
+                "periodo": {
+                    "dal": "2021-05",
+                    "al": "2021-06"
+
+                },
+
+                "giornate": 41,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Palomba Raffaele"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 6,
+                "comune": "Orotelli,Oniferi",
+                "localita": "Orotelli,Oniferi",
+                "superficie": "110 ha",
+
+                "periodo": {
+                    "dal": "2021-05",
+                    "al": "2021-06"
+
+                },
+
+                "giornate": 19,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Sanna Maria Caterina"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 7,
+                "comune": "Orune",
+                "localita": "SA SERRA",
+                "superficie": "100 ha",
+
+                "periodo": {
+                    "dal": "2021-07",
+                    "al": "2021-08"
+
+                },
+
+                "giornate": 11,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Carta Graziella"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 8,
+                "comune": "Orune",
+                "localita": "SA SERRA",
+                "superficie": "100 ha",
+
+                "periodo": {
+                    "dal": "2021-08",
+                    "al": "2021-08"
+
+                },
+
+                "giornate": 15,
+
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Porcu Giovanna"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": ""
+            },
+            {
+                "id": 9,
+                "comune": "Aggius",
+                "localita": "LA FRASSATA + PARCO DI SANTA DEGNA",
+                "superficie": "578 piante",
+
+                "periodo": {
+                    "dal": "2021-08",
+                    "al": "2021-08"
+
+                },
+
+                "giornate": 4,
+
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Forestas"
+                },
+
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Interventi sulla viabilità forestale"
+                ],
+
+                "note": "Da finire di estrarre nella stagione 2022."
             }
+
+
+        ],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugliatori": 2,
+            "cippatrici": 0,
+            "gruCavo": 0,
+            "processori": 0,
+            "spaccalegna": 0,
+            "torretteMobili": 0,
+            "potatore": 3,
+            "tranciaRotativa": 2,
+            "segaAnastro": 3,
+            "risine": null,
+            "scortecciatrici": 0,
+            "verricelli": 10,
+            "forbiceElettronica": 1,
+            "giroandatore": 1,
+            "tirabande": 8,
+            "altro": null
         },
-        {
-            "id": 51,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "Malloru Nicola",
-                "codiceFiscale": "03736220926",
-                "partitaIva": "03736220926",
-                "formaGiuridica": "S.A.S.",
-                "stato": null,
-                "regione": null,
-                "provincia": "SU",
-                "comune": "Burcei",
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": null,
-                "addettiDeterminati": null,
-                "addettiStagionali": null
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 0,
-                "qualifiche": []
-            },
-            "attivita": [
-                {
-                    "id": 1,
-                    "comune": "TEULADA",
-                    "localita": "NAPPA",
-                    "superficie": null,
-                    "periodo": {
-                        "dal": "2016-02",
-                        "al": "2022-03"
-                    },
-                    "giornate": 350,
-                    "committente": {
-                        "tipo": "Privata",
-                        "nome": "MALLORU ANDREA"
-                    },
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Interventi sulla viabilità forestale",
-                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
-                    ],
-                    "note": ""
-                }
-            ],
-            "attrezzature": {
-                "motoseghe": 5,
-                "decespugliatori": 2,
-                "cippatrici": 0,
-                "gruCavo": 0,
-                "processori": 0,
-                "spaccalegna": 2,
-                "torretteMobili": 0,
-                "risine": 0,
-                "scortecciatrici": 0,
-                "verricelli": 0,
-                "altro": "2 SEGHE CIRCOLARI"
-            },
-            "mezzi": {
-                "autocarri": 5,
-                "autocarriGru": 0,
-                "miniEscavatori": 0,
-                "escavatori": 1,
-                "trattoriGommati": 1,
-                "trattoriCingolati": 0,
-                "rimorchi1Asse": 0,
-                "rimorchi2Assi": 0,
-                "macchinaTaglioSpaccatura": 0,
-                "altro": ""
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
-            }
+        "mezzi": {
+            "autocarri": 15,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "palaCingolata": 1,
+            "escavatore": 0,
+            "palaMeccanica": 1,
+            "trattoriGommati": 4,
+            "trattoriCingolati": 1,
+            "rimorchi1Asse": 6,
+            "rimorchi2Assi": 0,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
         },
-        {
-            "id": 52,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "MALLORU SEVERINO",
-                "codiceFiscale": "MLLSRV84E06B354L",
-                "partitaIva": "03537080929",
-                "formaGiuridica": "S.A.S.",
-                "stato": null,
-                "regione": null,
-                "provincia": "SU",
-                "comune": "Burcei",
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": 2,
-                "addettiDeterminati": 0,
-                "addettiStagionali": 0
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 0,
-                "qualifiche": []
-            },
-            "attivita": [
-                {
-                    "id": 1,
-                    "comune": "TEULADA",
-                    "localita": "NAPPA",
-                    "superficie": "300 ha",
-                    "periodo": {
-                        "dal": "2017",
-                        "al": "2022"
-                    },
-                    "giornate": 160,
-                    "committente": {
-                        "tipo": null,
-                        "nome": null
-                    },
-                    "tipologie": [
-                        "Utilizzazioni boschive"
-                    ],
-                    "note": "8 MESI; ANNO 2017/2018/2019/2020/2021/2022"
-                }
-            ],
-            "attrezzature": {
-                "motoseghe": 3,
-                "decespugliatori": null,
-                "cippatrici": null,
-                "gruCavo": null,
-                "processori": null,
-                "spaccalegna": 2,
-                "torretteMobili": null,
-                "risine": null,
-                "scortecciatrici": null,
-                "verricelli": null,
-                "altro": null
-            },
-            "mezzi": {
-                "autocarri": 2,
-                "autocarriGru": null,
-                "miniEscavatori": null,
-                "escavatori": 1,
-                "trattoriGommati": 1,
-                "trattoriCingolati": null,
-                "rimorchi1Asse": null,
-                "rimorchi2Assi": null,
-                "macchinaTaglioSpaccatura": null,
-                "altro": null
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
-            }
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 51,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Malloru Nicola",
+            "codiceFiscale": "03736220926",
+            "partitaIva": "03736220926",
+            "formaGiuridica": "S.A.S.",
+            "stato": null,
+            "regione": null,
+            "provincia": "SU",
+            "comune": "Burcei",
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
         },
-        {
-            "id": 53,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "MaPi di Piras Massimiliano Aldo",
-                "codiceFiscale": "",
-                "partitaIva": "01362500918",
-                "formaGiuridica": null,
-                "stato": null,
-                "regione": null,
-                "provincia": "SU",
-                "comune": "Sadali",
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": null,
-                "addettiDeterminati": null,
-                "addettiStagionali": null
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 0,
-                "qualifiche": []
-            },
-            "attivita": [
-                {
-                    "id": 1,
-                    "comune": "SEUI - BITTI - VILLANOVA MONTELEONE ECC.",
-                    "localita": "SAN SEBASTIANO",
-                    "superficie": "3 ha",
-                    "periodo": {
-                        "dal": "2021",
-                        "al": "2022"
-                    },
-                    "giornate": 100,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "COMUNE DI SADALI - TAGLIO PIANTE"
-                    },
-                    "tipologie": [
-                        "Utilizzazioni boschive",
-                        "Sughericoltura e/o estrazione e selezione del sughero",
-                        "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
-                    ],
-                    "note": ""
-                }
-            ],
-            "attrezzature": {
-                "motoseghe": 4,
-                "decespugliatori": 1,
-                "cippatrici": null,
-                "gruCavo": null,
-                "processori": null,
-                "spaccalegna": 1,
-                "torretteMobili": null,
-                "risine": null,
-                "scortecciatrici": null,
-                "verricelli": 2,
-                "altro": "SCURI 5"
-            },
-            "mezzi": {
-                "autocarri": 1,
-                "autocarriGru": null,
-                "miniEscavatori": 1,
-                "escavatori": null,
-                "trattoriGommati": 1,
-                "trattoriCingolati": null,
-                "rimorchi1Asse": null,
-                "rimorchi2Assi": 1,
-                "macchinaTaglioSpaccatura": null,
-                "altro": null
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
-            }
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
         },
-        {
-            "id": 54,
-            "anagrafica": {
-                "numeroIscrizione": null,
-                "denominazione": "METTE FRANCESCO",
-                "codiceFiscale": "",
-                "partitaIva": "02203150905",
-                "formaGiuridica": null,
-                "stato": null,
-                "regione": null,
-                "provincia": "SS",
-                "comune": "Alà dei Sardi",
-                "indirizzo": null,
-                "email": null,
-                "pec": null,
-                "telefono": null
-            },
-            "personale": {
-                "addettiIndeterminati": null,
-                "addettiDeterminati": null,
-                "addettiStagionali": 6
-            },
-            "personaleSpecializzato": {
-                "totaleOperatori": 0,
-                "qualifiche": []
-            },
-            "attivita": [
-                {
-                    "id": 1,
-                    "comune": "BUDDUSÒ, BITTI, PATTADA, ALÀ DEI SARDI, VILLANOVA MONTELEONE, TEMPIO PAUSANIA, CALANGIANUS",
-                    "localita": "TERRITORIO COMUNALE",
-                    "superficie": null,
-                    "periodo": {
-                        "dal": "2019",
-                        "al": "2021"
-                    },
-                    "giornate": null,
-                    "committente": {
-                        "tipo": "Pubblica",
-                        "nome": "ENTE FORESTE"
-                    },
-                    "tipologie": [
-                        "Sughericoltura e/o estrazione e selezione del sughero"
-                    ],
-                    "note": "CIRCA 200 GIORNI; TANCATI PRIVATI NEI COMUNI SUDDETTI"
-                }
-            ],
-            "attrezzature": {
-                "motoseghe": 1,
-                "decespugliatori": null,
-                "cippatrici": null,
-                "gruCavo": null,
-                "processori": null,
-                "spaccalegna": null,
-                "torretteMobili": null,
-                "risine": null,
-                "scortecciatrici": null,
-                "verricelli": null,
-                "altro": null
-            },
-            "mezzi": {
-                "autocarri": 1,
-                "autocarriGru": null,
-                "miniEscavatori": null,
-                "escavatori": null,
-                "trattoriGommati": 0,
-                "trattoriCingolati": null,
-                "rimorchi1Asse": null,
-                "rimorchi2Assi": null,
-                "macchinaTaglioSpaccatura": null,
-                "altro": null
-            },
-            "metadata": {
-                "sezione": null,
-                "determina": null,
-                "ateco": null,
-                "attivitaPrevalente": null,
-                "attivitaSecondaria": null
+        "personaleSpecializzato": {
+            "totaleOperatori": 0,
+            "qualifiche": []
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "TEULADA",
+                "localita": "NAPPA",
+                "superficie": null,
+                "periodo": {
+                    "dal": "2016-02",
+                    "al": "2022-03"
+                },
+                "giornate": 350,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "MALLORU ANDREA"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Interventi sulla viabilità forestale",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
             }
-            },
+        ],
+        "attrezzature": {
+            "motoseghe": 5,
+            "decespugliatori": 2,
+            "cippatrici": 0,
+            "gruCavo": 0,
+            "processori": 0,
+            "spaccalegna": 2,
+            "torretteMobili": 0,
+            "risine": 0,
+            "scortecciatrici": 0,
+            "verricelli": 0,
+            "altro": "2 SEGHE CIRCOLARI"
+        },
+        "mezzi": {
+            "autocarri": 5,
+            "autocarriGru": 0,
+            "miniEscavatori": 0,
+            "escavatori": 1,
+            "trattoriGommati": 1,
+            "trattoriCingolati": 0,
+            "rimorchi1Asse": 0,
+            "rimorchi2Assi": 0,
+            "macchinaTaglioSpaccatura": 0,
+            "altro": ""
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 52,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "MALLORU SEVERINO",
+            "codiceFiscale": "MLLSRV84E06B354L",
+            "partitaIva": "03537080929",
+            "formaGiuridica": "S.A.S.",
+            "stato": null,
+            "regione": null,
+            "provincia": "SU",
+            "comune": "Burcei",
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 2,
+            "addettiDeterminati": 0,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 0,
+            "qualifiche": []
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "TEULADA",
+                "localita": "NAPPA",
+                "superficie": "300 ha",
+                "periodo": {
+                    "dal": "2017",
+                    "al": "2022"
+                },
+                "giornate": 160,
+                "committente": {
+                    "tipo": null,
+                    "nome": null
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive"
+                ],
+                "note": "8 MESI; ANNO 2017/2018/2019/2020/2021/2022"
+            }
+        ],
+        "attrezzature": {
+            "motoseghe": 3,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 2,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": 1,
+            "trattoriGommati": 1,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 53,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "MaPi di Piras Massimiliano Aldo",
+            "codiceFiscale": "",
+            "partitaIva": "01362500918",
+            "formaGiuridica": null,
+            "stato": null,
+            "regione": null,
+            "provincia": "SU",
+            "comune": "Sadali",
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 0,
+            "qualifiche": []
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "SEUI - BITTI - VILLANOVA MONTELEONE ECC.",
+                "localita": "SAN SEBASTIANO",
+                "superficie": "3 ha",
+                "periodo": {
+                    "dal": "2021",
+                    "al": "2022"
+                },
+                "giornate": 100,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI SADALI - TAGLIO PIANTE"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Sughericoltura e/o estrazione e selezione del sughero",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
+            }
+        ],
+        "attrezzature": {
+            "motoseghe": 4,
+            "decespugliatori": 1,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 2,
+            "altro": "SCURI 5"
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": null,
+            "trattoriGommati": 1,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": 1,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 54,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "METTE FRANCESCO",
+            "codiceFiscale": "",
+            "partitaIva": "02203150905",
+            "formaGiuridica": null,
+            "stato": null,
+            "regione": null,
+            "provincia": "SS",
+            "comune": "Alà dei Sardi",
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 6
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 0,
+            "qualifiche": []
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "BUDDUSÒ, BITTI, PATTADA, ALÀ DEI SARDI, VILLANOVA MONTELEONE, TEMPIO PAUSANIA, CALANGIANUS",
+                "localita": "TERRITORIO COMUNALE",
+                "superficie": null,
+                "periodo": {
+                    "dal": "2019",
+                    "al": "2021"
+                },
+                "giornate": null,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "ENTE FORESTE"
+                },
+                "tipologie": [
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+                ],
+                "note": "CIRCA 200 GIORNI; TANCATI PRIVATI NEI COMUNI SUDDETTI"
+            }
+        ],
+        "attrezzature": {
+            "motoseghe": 1,
+            "decespugliatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": null
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": 0,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": null
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
     {
         "id": 55,
         "anagrafica": {
@@ -7245,7 +7243,7 @@
         "anagrafica": {
             "numeroIscrizione": null,
             "denominazione": "MORO FRANCESCO GIUSEPPE",
-            "codiceFiscale": "MROFNC63C21F979W",
+            "codiceFiscale": "",
             "partitaIva": "00219900917",
             "formaGiuridica": null,
             "stato": null,
@@ -8086,7 +8084,7 @@
             "attivitaSecondaria": null
         }
     },
-   
+
     {
         "id": 65,
         "anagrafica": {
@@ -9867,88 +9865,7 @@
             "attivitaSecondaria": null
         }
     },
-    {
-        "id": 80,
-        "anagrafica": {
-            "numeroIscrizione": null,
-            "denominazione": "Sisaf Società Srl",
-            "codiceFiscale": "00042170951",
-            "partitaIva": "00042170951",
-            "formaGiuridica": null,
-            "stato": null,
-            "regione": null,
-            "provincia": null,
-            "comune": null,
-            "indirizzo": null,
-            "email": null,
-            "pec": null,
-            "telefono": null
-        },
-        "personale": {
-            "addettiIndeterminati": 1,
-            "addettiDeterminati": null,
-            "addettiStagionali": 6
-        },
-        "personaleSpecializzato": {
-            "totaleOperatori": 1,
-            "qualifiche": [
-                "Addetto all'estrazione e selezione del sughero"
-            ]
-        },
-        "attivita": [
-            {
-                "id": 1,
-                "comune": "ABBASANTA",
-                "localita": "AGRO DI ABBASANTA",
-                "superficie": "100 HA (ETTARI)",
-                "periodo": {
-                    "dal": null,
-                    "al": null
-                },
-                "giornate": 100,
-                "committente": {
-                    "tipo": "Pubblica",
-                    "nome": "ENTE LOCALE"
-                },
-                "tipologie": [
-                    "Sughericoltura e/o estrazione e selezione del sughero"
-                ],
-                "note": "Periodo di riferimento: da maggio a settembre; 100 giornate ciascun anno."
-            }
-        ],
-        "attrezzature": {
-            "motoseghe": 2,
-            "decespugliatori": 2,
-            "cippatrici": null,
-            "gruCavo": null,
-            "processori": null,
-            "spaccalegna": null,
-            "torretteMobili": null,
-            "risine": null,
-            "scortecciatrici": 6,
-            "verricelli": null,
-            "altro": "Scale: 5"
-        },
-        "mezzi": {
-            "autocarri": null,
-            "autocarriGru": null,
-            "miniEscavatori": null,
-            "escavatori": null,
-            "trattoriGommati": null,
-            "trattoriCingolati": null,
-            "rimorchi1Asse": null,
-            "rimorchi2Assi": null,
-            "macchinaTaglioSpaccatura": null,
-            "altro": "Autocarro: 1; Trattrice agricola: 1"
-        },
-        "metadata": {
-            "sezione": null,
-            "determina": null,
-            "ateco": null,
-            "attivitaPrevalente": null,
-            "attivitaSecondaria": null
-        }
-    },
+
     {
         "id": 81,
         "anagrafica": {
@@ -10163,129 +10080,7 @@
             "attivitaSecondaria": null
         }
     },
-    {
-        "id": 83,
-        "anagrafica": {
-            "numeroIscrizione": null,
-            "denominazione": "SOCIETÀ COOPERATIVA SOCIALE 3D",
-            "codiceFiscale": "03561170923",
-            "partitaIva": "03561170923",
-            "formaGiuridica": null,
-            "stato": null,
-            "regione": null,
-            "provincia": null,
-            "comune": null,
-            "indirizzo": null,
-            "email": null,
-            "pec": null,
-            "telefono": null
-        },
-        "personale": {
-            "addettiIndeterminati": 9,
-            "addettiDeterminati": 6,
-            "addettiStagionali": null
-        },
-        "personaleSpecializzato": {
-            "totaleOperatori": 0,
-            "qualifiche": []
-        },
-        "attivita": [
-            {
-                "id": 1,
-                "comune": "ARMUNGIA",
-                "localita": "IS FORREDDUS",
-                "superficie": "10000",
-                "periodo": {
-                    "dal": "2019-11",
-                    "al": "2020-01"
-                },
-                "giornate": 60,
-                "committente": {
-                    "tipo": "Pubblica",
-                    "nome": "COMUNE DI ARMUNGIA"
-                },
-                "tipologie": [
-                    "Sistemazioni idraulico-forestali anche con tecniche di ingegneria naturalistica"
-                ],
-                "note": ""
-            },
-            {
-                "id": 2,
-                "comune": "VILLASALTO",
-                "localita": "GENNE AIDU",
-                "superficie": "20000",
-                "periodo": {
-                    "dal": "2019-09",
-                    "al": "2020-02"
-                },
-                "giornate": 92,
-                "committente": {
-                    "tipo": "Pubblica",
-                    "nome": "COMUNE DI VILLASALTO"
-                },
-                "tipologie": [
-                    "Rimboschimento e imboschimento",
-                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose",
-                    "Gestione forestale per la valorizzazione del paesaggio",
-                    "Interventi sulla viabilità forestale"
-                ],
-                "note": ""
-            },
-            {
-                "id": 3,
-                "comune": "MURAVERA",
-                "localita": "PINETA COMUNALE",
-                "superficie": "20000",
-                "periodo": {
-                    "dal": "2018-11",
-                    "al": "2019-05"
-                },
-                "giornate": 112,
-                "committente": {
-                    "tipo": "Pubblica",
-                    "nome": "COMUNE DI MURAVERA"
-                },
-                "tipologie": [
-                    "Rimboschimento e imboschimento",
-                    "Gestione forestale per la valorizzazione del paesaggio",
-                    "Interventi sulla viabilità forestale"
-                ],
-                "note": ""
-            }
-        ],
-        "attrezzature": {
-            "motoseghe": 10,
-            "decespugliatori": 7,
-            "cippatrici": 1,
-            "gruCavo": null,
-            "processori": null,
-            "spaccalegna": 1,
-            "torretteMobili": null,
-            "risine": null,
-            "scortecciatrici": null,
-            "verricelli": null,
-            "altro": null
-        },
-        "mezzi": {
-            "autocarri": 3,
-            "autocarriGru": 1,
-            "miniEscavatori": 2,
-            "escavatori": null,
-            "trattoriGommati": 1,
-            "trattoriCingolati": 2,
-            "rimorchi1Asse": null,
-            "rimorchi2Assi": null,
-            "macchinaTaglioSpaccatura": null,
-            "altro": null
-        },
-        "metadata": {
-            "sezione": null,
-            "determina": null,
-            "ateco": null,
-            "attivitaPrevalente": null,
-            "attivitaSecondaria": null
-        }
-    },
+
     {
         "id": 84,
         "anagrafica": {
@@ -10372,86 +10167,7 @@
             "attivitaSecondaria": null
         }
     },
-    {
-        "id": 85,
-        "anagrafica": {
-            "numeroIscrizione": null,
-            "denominazione": "SPANO GIAMPIETRO",
-            "codiceFiscale": "",
-            "partitaIva": "01416090916",
-            "formaGiuridica": null,
-            "stato": null,
-            "regione": null,
-            "provincia": null,
-            "comune": null,
-            "indirizzo": null,
-            "email": null,
-            "pec": null,
-            "telefono": null
-        },
-        "personale": {
-            "addettiIndeterminati": 1,
-            "addettiDeterminati": null,
-            "addettiStagionali": null
-        },
-        "personaleSpecializzato": {
-            "totaleOperatori": 1,
-            "qualifiche": []
-        },
-        "attivita": [
-            {
-                "id": 1,
-                "comune": "SIURGUS DONIGALA",
-                "localita": "MONTIGA",
-                "superficie": "3,70",
-                "periodo": {
-                    "dal": "2018-05",
-                    "al": "2018-05"
-                },
-                "giornate": 8,
-                "committente": {
-                    "tipo": "Privata",
-                    "nome": "MUREDDU UBALDO"
-                },
-                "tipologie": [
-                    "Sughericoltura e/o estrazione e selezione del sughero"
-                ],
-                "note": ""
-            }
-        ],
-        "attrezzature": {
-            "motoseghe": 2,
-            "decespugolatori": 1,
-            "cippatrici": null,
-            "gruCavo": null,
-            "processori": null,
-            "spaccalegna": null,
-            "torretteMobili": null,
-            "risine": null,
-            "scortecciatrici": 1,
-            "verricelli": null,
-            "altro": "2"
-        },
-        "mezzi": {
-            "autocarri": 1,
-            "autocarriGru": null,
-            "miniEscavatori": null,
-            "escavatori": null,
-            "trattoriGommati": null,
-            "trattoriCingolati": null,
-            "rimorchi1Asse": null,
-            "rimorchi2Assi": null,
-            "macchinaTaglioSpaccatura": null,
-            "altro": null
-        },
-        "metadata": {
-            "sezione": null,
-            "determina": null,
-            "ateco": null,
-            "attivitaPrevalente": null,
-            "attivitaSecondaria": null
-        }
-    },
+
     {
         "id": 86,
         "anagrafica": {
@@ -11488,5 +11204,248 @@
             "attivitaSecondaria": null
         }
     },
+    {
+        "id": 97,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "BIOSUGHERI",
+            "codiceFiscale": "03715450924",
+            "partitaIva": "03715450924",
+            "formaGiuridica": "SRL",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": 15
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 5,
+            "qualifiche": [ "Addetto all'estrazione e selezione del sughero (RRPQ cod. 14)" ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "Villacidro Guspini Castiadas",
+                "localita": "Monte Magosu; Monte Vecchio; Castiadas",
+                "superficie": "",
+                "periodo": {
+                    "dal": "05-2021",
+                    "al": "08-2021"
+                },
+                "giornate": 100,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Agenzia Forestale Regionale “Forestas”"
+                },
+                "tipologie": [
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+                ],
+                "note": ""
+            }
 
+        ],
+        "attrezzature": {
+            "motoseghe": 4,
+            "decespugolatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": ""
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": 1,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": 1,
+            "altro": "fuoristrada-3, Unimog-1"
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+
+    {
+        "id": 98,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Scattu Alex",
+            "codiceFiscale": "01601320912",
+            "partitaIva": "",
+            "formaGiuridica": "",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Gairo",
+            "indirizzo": null,
+            "email": "scattu.alex@gmail.com",
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 1,
+            "addettiDeterminati": 3,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": []
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "Lula",
+                "localita": "Sas Chessas",
+                "superficie": "10ha",
+                "periodo": {
+                    "dal": "03-2023",
+                    "al": "12-2023"
+                },
+                "giornate": 100,
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Asproni Paolo"
+                },
+                "tipologie": [
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
+            }
+
+        ],
+        "attrezzature": {
+            "motoseghe": 5,
+            "decespugolatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": 1,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "altro": ""
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": 3,
+            "trattoriGommati": 1,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": 1,
+            "macchinaTaglioSpaccatura": 1,
+            "altro": "fuoristrada-3, Unimog-1"
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 99,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Suber Trading SRL Unipersonale",
+            "codiceFiscale": "03747120925",
+            "partitaIva": "03747120925",
+            "formaGiuridica": "SRL",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 1,
+            "addettiDeterminati": null,
+            "addettiStagionali": 6
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 1,
+            "qualifiche": [ "Addetto all'estrazione e selezione del sughero" ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "SiurgusDonigala Sarule Nurri",
+                "localita": "",
+                "superficie": "600 ha",
+                "periodo": {
+                    "dal": "2027",
+                    "al": ""
+                },
+                "giornate": 180,
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": ""
+                },
+                "tipologie": [
+                    "Sughericoltura e/o estrazione e selezione del sughero"
+                ],
+                "note": ""
+            }
+
+        ],
+        "attrezzature": {
+            "motoseghe": 4,
+            "decespugolatori": null,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 2,
+            "altro": ""
+        },
+        "mezzi": {
+            "autocarri": 3,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": null,
+            "trattoriGommati": 1,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": ""
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    }
 ]
