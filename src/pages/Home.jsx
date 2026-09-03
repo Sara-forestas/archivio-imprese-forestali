@@ -174,7 +174,7 @@ const risultati =
 
       <div className="row mt-4">
 
-        <div className="col-md-4">
+        <div className="col-md-8">
 
           <div className="stat-card">
 
@@ -190,7 +190,7 @@ const risultati =
 
       
 
-        <div className="col-md-4">
+        <div className="col-md-8">
 
           <div className="stat-card">
 
