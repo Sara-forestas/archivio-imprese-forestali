@@ -35,12 +35,17 @@ export default function DotazioneTecnicaCard({ impresa }) {
             <p><strong>Scortecciatrici:</strong> {impresa.attrezzature?.scortecciatrici || 0}</p>
 
             <p><strong>Verricelli:</strong> {impresa.attrezzature?.verricelli || 0}</p>
+            
+            <p><strong>Tosaerba:</strong> {impresa.attrezzature?.tosaerba || 0}</p>
 
             <p><strong>Forbice elettronica:</strong> {impresa.attrezzature?.forbiceElettronica || 0}</p>
 
             <p><strong>Giroandatore:</strong> {impresa.attrezzature?.giroandatore || 0}</p>
 
             <p><strong>Tirabande:</strong> {impresa.attrezzature?.tirabande || 0}</p>
+
+            <p><strong>Tagliasiepi professionale:</strong> {impresa.attrezzature?.tagliasiepi || 0}</p>
+
              <p><strong>Altro:</strong> {impresa.attrezzature?.altro || 0}</p>
 
           </div>

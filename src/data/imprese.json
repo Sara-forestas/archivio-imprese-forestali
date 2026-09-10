@@ -11447,5 +11447,1671 @@
             "attivitaPrevalente": null,
             "attivitaSecondaria": null
         }
+    },
+    {
+        "id": 100,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Iron Sky Soc. Coop",
+            "codiceFiscale": "3904720921",
+            "partitaIva": "3904720921",
+            "formaGiuridica": "SRL",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Cagliari",
+            "indirizzo": null,
+            "email": "IRONSKY.COOP@GMAIL.COM",
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 13,
+            "addettiDeterminati": 35,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 1,
+            "qualifiche": [ "Motoseghista" ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "Nuxis",
+                "localita": "",
+                "superficie": "",
+                "periodo": {
+                    "dal": "07-2023",
+                    "al": "03-2024"
+                },
+                "giornate": 171,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": ""
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio"
+                ],
+                "note": ""
+            },
+            {
+                "id": 2,
+                "comune": "TRATALIAS",
+                "localita": "",
+                "superficie": "",
+                "periodo": {
+                    "dal": "11-2023",
+                    "al": "08-2024"
+                },
+                "giornate": 210,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": ""
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio"
+                ],
+                "note": ""
+            }
+
+        ],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugolatori": 15,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "tosaerba": 8,
+            "altro": "soffiatori 10"
+        },
+        "mezzi": {
+            "autocarri": 3,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": "trinciarba idrostatico a lama 2"
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 102,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Isar Soc. Coop. Sociale Onlus",
+            "codiceFiscale": "2788510929",
+            "partitaIva": "2788510929",
+            "formaGiuridica": "COOP",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Santadi",
+            "indirizzo": null,
+            "email": "coop.isar@gmail.com",
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 5,
+            "addettiDeterminati": 15,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": [ "" ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "Tratalias, San Giovanni Suergiu",
+                "localita": "",
+                "superficie": "3000 mq",
+                "periodo": {
+                    "dal": "2022",
+                    "al": ""
+                },
+                "giornate": 130,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": ""
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio, Sistemazione idraulico-forestali anche con tecniche di ingegneria naturalistica, Interventi sulla viabilità forestale, Vivaistica forestale"
+                ],
+                "note": ""
+            }
+
+
+        ],
+        "attrezzature": {
+            "motoseghe": 2,
+            "decespugolatori": 2,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "tosaerba": null,
+            "altro": ""
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": ""
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 103,
+        "anagrafica": {
+            "numeroIscrizione": "Fronteddu Giovanni Maria",
+            "codiceFiscale": "",
+            "partitaIva": "00928640911",
+            "formaGiuridica": "DI",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Dorgali",
+            "indirizzo": null,
+            "email": "paisslino@gmail.com",
+            "pec": "fronteddu.giovannimaria@pec.it",
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": [ "" ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "Dorgali",
+                "localita": "",
+                "superficie": "4 km",
+                "periodo": {
+                    "dal": "01-2019",
+                    "al": "02-2019"
+                },
+                "giornate": 30,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Dorgali"
+                },
+                "tipologie": [
+                    "Sistemazione idraulico-forestali anche con tecniche di ingegneria naturalistica"
+                ],
+                "note": ""
+            },
+            {
+                "id": 2,
+                "comune": "Dorgali",
+                "localita": "",
+                "superficie": "6 km",
+                "periodo": {
+                    "dal": "12-2020",
+                    "al": ""
+                },
+                "giornate": 15,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Dorgali"
+                },
+                "tipologie": [
+                    "Sistemazione idraulico-forestali anche con tecniche di ingegneria naturalistica, Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            },
+            {
+                "id": 3,
+                "comune": "Dorgali",
+                "localita": "",
+                "superficie": "10 km",
+                "periodo": {
+                    "dal": "05-2022",
+                    "al": "07-2022"
+                },
+                "giornate": 60,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Dorgali"
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio, Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            },
+            {
+                "id": 4,
+                "comune": "Dorgali",
+                "localita": "",
+                "superficie": "50 km",
+                "periodo": {
+                    "dal": "06-2023",
+                    "al": "07-2023"
+                },
+                "giornate": 40,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Dorgali"
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio, Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            },
+            {
+                "id": 5,
+                "comune": "Dorgali",
+                "localita": "",
+                "superficie": "50 km",
+                "periodo": {
+                    "dal": "04-2024",
+                    "al": ""
+                },
+                "giornate": 40,
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Made Green SRLS"
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio"
+                ],
+                "note": ""
+            }
+
+
+        ],
+        "attrezzature": {
+            "motoseghe": 8,
+            "decespugolatori": 4,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "tosaerba": null,
+            "altro": ""
+        },
+        "mezzi": {
+            "autocarri": null,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": 1,
+            "trattoriGommati": 2,
+            "trattoriCingolati": 2,
+            "rimorchi1Asse": 2,
+            "rimorchi2Assi": 1,
+            "macchinaTaglioSpaccatura": 1,
+            "altro": ""
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 104,
+        "anagrafica": {
+            "numeroIscrizione": "Dolomiti Ambiente",
+            "codiceFiscale": "",
+            "partitaIva": "3680540923",
+            "formaGiuridica": "SRL",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Iglesias",
+            "indirizzo": null,
+            "email": "dolomitiambientesrl@gmail.com",
+            "pec": "dolomitiambiente.srls@legalmail.it",
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 10,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": [ "" ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "GONNOSFANADIGA",
+                "localita": "AGRO DI GONNOSFANADIGA",
+                "superficie": "09.00.00",
+                "periodo": {
+                    "dal": "2024-05",
+                    "al": "2024-06"
+                },
+                "giornate": 18,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "ATZORI ALESSANDRO"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "Lavorazione svolta per conto della SERRAMANNA ENERGIA S.P.A."
+            },
+            {
+                "id": 2,
+                "comune": "MONASTIR",
+                "localita": "AGRO DI MONASTIR",
+                "superficie": "09.00.00",
+                "periodo": {
+                    "dal": "2024-11",
+                    "al": "2024-11"
+                },
+                "giornate": 16,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "CONTINI ENRICO"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "Lavorazione svolta per conto della SERRAMANNA ENERGIA S.P.A."
+            },
+            {
+                "id": 3,
+                "comune": "GONNOSFANADIGA",
+                "localita": "AGRO DI GONNOSFANADIGA",
+                "superficie": "116.50.00",
+                "periodo": {
+                    "dal": "2024-07",
+                    "al": "2024-07"
+                },
+                "giornate": 6,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "PUSCEDDU POER PAOLO"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "Lavorazione svolta per conto della SERRAMANNA ENERGIA S.P.A."
+            },
+            {
+                "id": 4,
+                "comune": "UTA",
+                "localita": "MACCHIAREDDU",
+                "superficie": "06.00.00",
+                "periodo": {
+                    "dal": "2024-09",
+                    "al": "2024-09"
+                },
+                "giornate": 10,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "TRATTO VERDE AMBIENTE"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "Lavorazione svolta per conto della SERRAMANNA ENERGIA S.P.A."
+            },
+            {
+                "id": 5,
+                "comune": "VILLANOVAFORRU",
+                "localita": "AGRO DI VILLANOVAFORRU",
+                "superficie": "08.00.00",
+                "periodo": {
+                    "dal": "2024-03",
+                    "al": "2024-04"
+                },
+                "giornate": 15,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "ARGWIND"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "Lavorazione svolta per conto della S.A.E. SRL SOCIETA' AGROENERGETICA."
+            },
+            {
+                "id": 6,
+                "comune": "ASSEMINI",
+                "localita": "LOC. TRUNCU IS FOLLAS",
+                "superficie": "02.00.00",
+                "periodo": {
+                    "dal": "2024-05",
+                    "al": "2024-06"
+                },
+                "giornate": 12,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "PINO E DAVIDE MOGEA"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "Lavorazione svolta per conto della S.A.E. SRL SOCIETA' AGROENERGETICA."
+            },
+            {
+                "id": 7,
+                "comune": "RUINAS",
+                "localita": "LOC. PERDERA",
+                "superficie": "07.00.00",
+                "periodo": {
+                    "dal": "2023-09",
+                    "al": "2023-09"
+                },
+                "giornate": 7,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": "AZ. AGRIC. MURGIA ANTONIO"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "Lavorazione svolta per conto della S.A.E. SRL SOCIETA' AGROENERGETICA."
+            },
+            {
+                "id": 8,
+                "comune": "UTA",
+                "localita": "MACCHIAREDDU",
+                "superficie": "16.00.00",
+                "periodo": {
+                    "dal": "2023-05",
+                    "al": "2023-06"
+                },
+                "giornate": 16,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": null
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "Acquisizione diretta."
+            },
+            {
+                "id": 9,
+                "comune": "SARDARA",
+                "localita": "LOC. SERRA SU CARDU",
+                "superficie": "20.00.00",
+                "periodo": {
+                    "dal": "2023-08",
+                    "al": "2023-10"
+                },
+                "giornate": 20,
+                "committente": {
+                    "tipo": "Privata",
+                    "nome": null
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive",
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": "Acquisizione diretta."
+            }
+        ],
+        "attrezzature": {
+            "motoseghe": null,
+            "decespugolatori": 10,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "altro": "Edicole idrauliche: 1"
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": 1,
+            "miniEscavatori": null,
+            "escavatori": 2,
+            "trattoriGommati": 2,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": 2,
+            "macchinaTaglioSpaccatura": null,
+            "altro": "Escavatore gommato: 1"
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 105,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "DISGAGGIATORI DI SARDEGNA S.N.C. DI ALESSANDRO MURA & C.",
+            "codiceFiscale": "01078450952",
+            "partitaIva": "01078450952",
+            "formaGiuridica": null,
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": null,
+            "indirizzo": null,
+            "email": null,
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 4,
+            "addettiDeterminati": 0,
+            "addettiStagionali": 0
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 0,
+            "qualifiche": []
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "OLLASTRA SIMAXIS",
+                "localita": "BOSCHETTO SAN MARTINO",
+                "superficie": "MQ 3000,00",
+                "periodo": {
+                    "dal": "02-2024",
+                    "al": null
+                },
+                "giornate": 5,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI OLLASTRA SIMAXIS"
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Sistemazioni idraulico-forestali anche con tecniche di ingegneria naturalistica"
+                ],
+                "note": "SI ALLEGA LA LETTERA COMMERCIALE DI AFFIDAMENTO LAVORI."
+            },
+            {
+                "id": 2,
+                "comune": "VILLACIDRO",
+                "localita": "IS GUARDIAS",
+                "superficie": "MQ 1600,00",
+                "periodo": {
+                    "dal": "09-2024",
+                    "al": "10-2024"
+                },
+                "giornate": 11,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI VILLACIDRO"
+                },
+                "tipologie": [
+                    "Sistemazioni idraulico-forestali anche con tecniche di ingegneria naturalistica"
+                ],
+                "note": "SI ALLEGA IL CONTRATTO DI SUB-APPALTO"
+            },
+            {
+                "id": 3,
+                "comune": "AIDOMAGGIORE",
+                "localita": "VIA BINZALE",
+                "superficie": "MQ 750 + MQ 240 = 990 MQ",
+                "periodo": {
+                    "dal": "06-2024",
+                    "al": "07-2024"
+                },
+                "giornate": 25,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI AIDOMAGGIORE"
+                },
+                "tipologie": [
+                    "Sistemazioni idraulico-forestali anche con tecniche di ingegneria naturalistica"
+                ],
+                "note": "SI ALLEGA LETTERA COMMERCIALE E STATO FINALE LAVORI"
+            },
+            {
+                "id": 4,
+                "comune": "IGLESIAS",
+                "localita": "DIGA GENNARTA",
+                "superficie": "CIRCA MQ 500",
+                "periodo": {
+                    "dal": "07-2023",
+                    "al": "09-2023"
+                },
+                "giornate": 20,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI IGLESIAS"
+                },
+                "tipologie": [
+                    "Sistemazioni idraulico-forestali anche con tecniche di ingegneria naturalistica"
+                ],
+                "note": "SI ALLEGA CONTRATTO E COMPUTO METRICO."
+            },
+            {
+                "id": 5,
+                "comune": "SANTA GIUSTA",
+                "localita": "VARIE",
+                "superficie": null,
+                "periodo": {
+                    "dal": "04-2023",
+                    "al": null
+                },
+                "giornate": 20,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "COMUNE DI SANTA GIUSTA"
+                },
+                "tipologie": [
+                    "Sistemazioni idraulico-forestali anche con tecniche di ingegneria naturalistica"
+                ],
+                "note": "VEDI AFFIDAMENTO DIRETTO E PREVENTIVO"
+            },
+            {
+                "id": 6,
+                "comune": "PROVINCIA ORISTANO",
+                "localita": "STRADA COLLEGAMENTO BONARCADO - SANTULUSSURGIU",
+                "superficie": "MQ 3.000,00",
+                "periodo": {
+                    "dal": "08-2021",
+                    "al": null
+                },
+                "giornate": 8,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "PROVINCIA DI ORISTANO"
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio",
+                    "Sistemazioni idraulico-forestali anche con tecniche di ingegneria naturalistica"
+                ],
+                "note": "VEDI ACCETTAZIONE E PREVENTIVO"
+            }
+        ],
+        "attrezzature": {
+            "motoseghe": 6,
+            "decespugolatori": 2,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": 1,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "altro": "Tagliasiepi: 1; Attrezzature per lavori in quota: 5"
+        },
+        "mezzi": {
+            "autocarri": 2,
+            "autocarriGru": 1,
+            "miniEscavatori": null,
+            "escavatori": 1,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": 1,
+            "altro": "Terna: 1"
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 106,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "ALI INTEGRAZIONE SCS",
+            "codiceFiscale": "3151170929",
+            "partitaIva": "",
+            "formaGiuridica": "SCS",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Cagliari",
+            "indirizzo": null,
+            "email": "info.integrazione@aliservizi.it",
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 165,
+            "addettiDeterminati": 43,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": [
+                ""
+            ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "COMUNE DI AGGIUS",
+                "localita": "",
+                "superficie": "3000 mq",
+                "periodo": {
+                    "dal": "01-2024",
+                    "al": "09-2024"
+                },
+                "giornate": 273,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Aggius"
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio,  Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            }
+
+
+        ],
+        "attrezzature": {
+            "motoseghe": 30,
+            "decespugolatori": 27,
+            "cippatrici": 3,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "tosaerba": null,
+            "altro": ""
+        },
+        "mezzi": {
+            "autocarri": 12,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": ""
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+
+    {
+        "id": 107,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "La San Giovanni ",
+            "codiceFiscale": "3714750928",
+            "partitaIva": "",
+            "formaGiuridica": "SCS",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Cagliari",
+            "indirizzo": null,
+            "email": "lasangiovanni7@tiscali.it",
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 45,
+            "addettiDeterminati": 32,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": [
+                ""
+            ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "COMUNE DI Villasalto",
+                "localita": "Maraspana",
+                "superficie": "2,5 ha",
+                "periodo": {
+                    "dal": "11-2021",
+                    "al": "05-2022"
+                },
+                "giornate": 135,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Villasalto"
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione delle produzioni anche non legnose, Gestione forestale per la valorizzazione del paesaggio,  Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            }
+
+
+        ],
+        "attrezzature": {
+            "motoseghe": 4,
+            "decespugolatori": 15,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": 1,
+            "risine": 150,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "tosaerba": null,
+            "altro": ""
+        },
+        "mezzi": {
+            "autocarri": 4,
+            "autocarriGru": null,
+            "miniEscavatori": 1,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": ""
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+
+    {
+        "id": 108,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "SOCIETÀ COOPERATIVA SOCIALE ECOTONI ONLUS ",
+            "codiceFiscale": "2617910902",
+            "partitaIva": "",
+            "formaGiuridica": "SCS",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Alghero",
+            "indirizzo": null,
+            "email": "info@ecotonicoop. it",
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": 9,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": [
+                ""
+            ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "COMUNE DI Alghero",
+                "localita": "Fonte Lo Cantar, Km 1 litoranea Alghero-Bosa",
+                "superficie": "1 ha",
+                "periodo": {
+                    "dal": "06-2020",
+                    "al": "09-2020"
+                },
+                "giornate": 60,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Alghero"
+                },
+                "tipologie": [
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB, Gestione forestale per la valorizzazione del paesaggio"
+                ],
+                "note": ""
+            },
+            {
+                "id": 2,
+                "comune": "COMUNE DI Alghero",
+                "localita": "Pineta di Maria Pia",
+                "superficie": "16 ha",
+                "periodo": {
+                    "dal": "04-2024",
+                    "al": "11-2024"
+                },
+                "giornate": 160,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Alghero"
+                },
+                "tipologie": [
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB, Gestione forestale per la valorizzazione del paesaggio"
+                ],
+                "note": ""
+            },
+            {
+                "id": 3,
+                "comune": "COMUNE DI Alghero",
+                "localita": "Pineta della Borgata di Fertilia",
+                "superficie": "2 ha",
+                "periodo": {
+                    "dal": "04-2024",
+                    "al": "11-2024"
+                },
+                "giornate": 200,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Alghero"
+                },
+                "tipologie": [
+                    "Interventi per la difesa fitosanitaria e prevenzione AIB, Gestione forestale per la valorizzazione del paesaggio"
+                ],
+                "note": ""
+            }
+
+
+        ],
+        "attrezzature": {
+            "motoseghe": 3,
+            "decespugolatori": 3,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "tosaerba": 1,
+            "tagliasiepi": 1,
+            "altro": "Pompa irroratrice a scoppio"
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": ""
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 109,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "RI-GENERA",
+            "codiceFiscale": "1660380914",
+            "partitaIva": "",
+            "formaGiuridica": "",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Torpè",
+            "indirizzo": null,
+            "email": "rigenera.cooperativa@gmail.com ",
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 1,
+            "addettiDeterminati": 3,
+            "addettiStagionali": 7
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": [
+                ""
+            ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "COMUNE DI SCANO MONTIFERRRO",
+                "localita": "LOCALITA’ MONTIFERRU",
+                "superficie": "22.50.00 ha",
+                "periodo": {
+                    "dal": "03-2024",
+                    "al": "09-2024"
+                },
+                "giornate": 136,
+                "committente": {
+                    "tipo": "Privato",
+                    "nome": "Società Mureddu-Balloi e Figli"
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio, Sistemazioni idraulico-forestali anche con tecniche di ingegneria naturalistica, Sughericoltura e/o estrazione e selezione del sughero, Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            }
+
+
+        ],
+        "attrezzature": {
+            "motoseghe": 4,
+            "decespugolatori": 4,
+            "cippatrici": 4,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": 2,
+            "verricelli": 1,
+            "tosaerba": null,
+            "tagliasiepi": null,
+            "altro": ""
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": 1,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": 1,
+            "altro": "fuoristrada cassonato"
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 110,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "MAR.COS SOCIETA' COOPERATIVA SOCIALE",
+            "codiceFiscale": "2903160907",
+            "partitaIva": "",
+            "formaGiuridica": "",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Bulzi",
+            "indirizzo": null,
+            "email": "mik.perrotta@hotmail.it",
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": [
+                ""
+            ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "COMUNE DI Bortigiadas",
+                "localita": "",
+                "superficie": "",
+                "periodo": {
+                    "dal": "2023",
+                    "al": ""
+                },
+                "giornate": 120,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di bortigiadas"
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive, Rimboschimento e imboschimento,  Gestione forestale per la valorizzazione del paesaggio, Interventi sulla viabilità forestale, Vivaistica forestale"
+                ],
+                "note": ""
+            }
+
+
+        ],
+        "attrezzature": {
+            "motoseghe": 20,
+            "decespugolatori": 30,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": null,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": null,
+            "tosaerba": null,
+            "tagliasiepi": null,
+            "altro": ""
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": ""
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 111,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Tutto Verde di Todde Salvatore",
+            "codiceFiscale": "1437810912",
+            "partitaIva": "",
+            "formaGiuridica": "",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Desulo",
+            "indirizzo": null,
+            "email": "toddesalvatore@alice.it",
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": [
+                ""
+            ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "COMUNE DI SENEGHE",
+                "localita": "PADASSIU",
+                "superficie": "2 ha",
+                "periodo": {
+                    "dal": "12-2018",
+                    "al": "03-2019"
+                },
+                "giornate": 80,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Seneghe"
+                },
+                "tipologie": [
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
+            },
+            {
+                "id": 2,
+                "comune": "COMUNE DI SENEGHE",
+                "localita": "PADASSIU",
+                "superficie": "2 ha",
+                "periodo": {
+                    "dal": "12-2020",
+                    "al": "04-2021"
+                },
+                "giornate": 110,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Seneghe"
+                },
+                "tipologie": [
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
+            },
+            {
+                "id": 1,
+                "comune": "COMUNE DI SENEGHE",
+                "localita": "PADASSIU",
+                "superficie": "2 ha",
+                "periodo": {
+                    "dal": "12-2022",
+                    "al": "02-2023"
+                },
+                "giornate": 60,
+                "committente": {
+                    "tipo": "Pubblica",
+                    "nome": "Comune di Seneghe"
+                },
+                "tipologie": [
+                    "Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
+            }
+
+
+        ],
+        "attrezzature": {
+            "motoseghe": 10,
+            "decespugolatori": 5,
+            "cippatrici": 1,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "tosaerba": null,
+            "tagliasiepi": null,
+            "altro": ""
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": ""
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 112,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "Aritzo Legna da ardere",
+            "codiceFiscale": "1487300913",
+            "partitaIva": "",
+            "formaGiuridica": "SAL",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Aritzo ",
+            "indirizzo": null,
+            "email": "nennamarotto@gmail.com",
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": null,
+            "addettiDeterminati": null,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": [
+                "Operatore forestale, operatore forestale specializzato, addetto alla estrazione e selezione del sughero"
+            ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "COMUNE DI ARITZO TONARA TIANA LACONI",
+                "localita": "PADASSIU",
+                "superficie": "2 ha",
+                "periodo": {
+                    "dal": "2016",
+                    "al": ""
+                },
+                "giornate": null,
+                "committente": {
+                    "tipo": "",
+                    "nome": ""
+                },
+                "tipologie": [
+                    "Utilizzazioni boschive, Sughericoltura e/o estrazione e selezione del sughero, Interventi sulla viabilità forestale, Attività di prima trasformazione e commercializzazione dei prodotti legnosi"
+                ],
+                "note": ""
+            }
+
+
+        ],
+        "attrezzature": {
+            "motoseghe": 8,
+            "decespugolatori": 2,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 2,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": null,
+            "verricelli": 1,
+            "tosaerba": null,
+            "tagliasiepi": null,
+            "altro": ""
+        },
+        "mezzi": {
+            "autocarri": 1,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": 1,
+            "trattoriGommati": 2,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": "pala meccanica cingolata 1, canalette da esbosco 30, trincia forestale 1"
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 113,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "SVILUPPO SERVIZI ITALIA COOPERATIVA SOCIALE ONLUS",
+            "codiceFiscale": "03118480924",
+            "partitaIva": "",
+            "formaGiuridica": "SAL",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Cagliari ",
+            "indirizzo": null,
+            "email": "info@svilupposervizitalia.com",
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 10,
+            "addettiDeterminati": 38,
+            "addettiStagionali": null
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": null,
+            "qualifiche": [
+                "Operatore forestale"
+            ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "COMUNE di Teulada",
+                "localita": "Imbuccada e Sadori",
+                "superficie": "",
+                "periodo": {
+                    "dal": "03-2023",
+                    "al": "09-2023"
+                },
+                "giornate": 145,
+                "committente": {
+                    "tipo": "Pubblico",
+                    "nome": "Comune"
+                },
+                "tipologie": [
+                    "Rimboschimento e imboschimento, Gestione forestale per la valorizzazione del paesaggio, Vivaistica forestale"
+                ],
+                "note": ""
+            },
+            {
+                "id": 2,
+                "comune": "COMUNE di Giba",
+                "localita": "Territorio boschivo del Comune di Giba",
+                "superficie": "",
+                "periodo": {
+                    "dal": "09-2022",
+                    "al": "03-2023"
+                },
+                "giornate": 160,
+                "committente": {
+                    "tipo": "Pubblico",
+                    "nome": "Comune"
+                },
+                "tipologie": [
+                    "Rimboschimento e imboschimento, Gestione forestale per la valorizzazione del paesaggio"
+                ],
+                "note": ""
+            },
+            {
+                "id": 3,
+                "comune": "COMUNE di Pula",
+                "localita": "Salomoni",
+                "superficie": "",
+                "periodo": {
+                    "dal": "09-2022",
+                    "al": "03-2023"
+                },
+                "giornate": 160,
+                "committente": {
+                    "tipo": "Pubblico",
+                    "nome": "Comune"
+                },
+                "tipologie": [
+                    "Vivaistica forestale, Gestione forestale per la valorizzazione del paesaggio, Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            }
+
+
+        ],
+        "attrezzature": {
+            "motoseghe": 6,
+            "decespugolatori": 16,
+            "cippatrici": null,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 2,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": 2,
+            "verricelli": 1,
+            "tosaerba": null,
+            "tagliasiepi": null,
+            "altro": "trinciatrice 3"
+        },
+        "mezzi": {
+            "autocarri": 4,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": null,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": null,
+            "altro": ""
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
+    },
+    {
+        "id": 114,
+        "anagrafica": {
+            "numeroIscrizione": null,
+            "denominazione": "INCLUDO SOCIETA’ COOPERATIVA SOCIALE",
+            "codiceFiscale": "01655910915",
+            "partitaIva": "",
+            "formaGiuridica": "",
+            "stato": null,
+            "regione": null,
+            "provincia": null,
+            "comune": "Sarule",
+            "indirizzo": null,
+            "email": "coopincludo@gmail.com",
+            "pec": null,
+            "telefono": null
+        },
+        "personale": {
+            "addettiIndeterminati": 1,
+            "addettiDeterminati": 5,
+            "addettiStagionali": 13
+        },
+        "personaleSpecializzato": {
+            "totaleOperatori": 1,
+            "qualifiche": [
+                "Operatore forestale"
+            ]
+        },
+        "attivita": [
+            {
+                "id": 1,
+                "comune": "COMUNE di POSADA",
+                "localita": "ORVILE",
+                "superficie": "6.00.00",
+                "periodo": {
+                    "dal": "12-2023",
+                    "al": "05-2024"
+                },
+                "giornate": 123,
+                "committente": {
+                    "tipo": "Pubblico",
+                    "nome": "Comune"
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio, Sistemazioni idraulico-forestali anche con tecniche di ingegneria naturalistica,Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            },
+            {
+                "id": 2,
+                "comune": "COMUNE di Torpè",
+                "localita": "SA DEA",
+                "superficie": "3.00.00",
+                "periodo": {
+                    "dal": "05-2024",
+                    "al": "09-2024"
+                },
+                "giornate": 117,
+                "committente": {
+                    "tipo": "Pubblico",
+                    "nome": "Comune"
+                },
+                "tipologie": [
+                    "Gestione forestale per la valorizzazione del paesaggio, Sistemazioni idraulico-forestali anche con tecniche di ingegneria naturalistica,Interventi sulla viabilità forestale"
+                ],
+                "note": ""
+            }
+            
+
+        ],
+        "attrezzature": {
+            "motoseghe": 6,
+            "decespugolatori": 6,
+            "cippatrici": 3,
+            "gruCavo": null,
+            "processori": null,
+            "spaccalegna": 1,
+            "torretteMobili": null,
+            "risine": null,
+            "scortecciatrici": 1,
+            "verricelli": null,
+            "tosaerba": null,
+            "tagliasiepi": null,
+            "altro": "trinciatrice 3"
+        },
+        "mezzi": {
+            "autocarri": 4,
+            "autocarriGru": null,
+            "miniEscavatori": null,
+            "escavatori": null,
+            "trattoriGommati": 1,
+            "trattoriCingolati": null,
+            "rimorchi1Asse": null,
+            "rimorchi2Assi": null,
+            "macchinaTaglioSpaccatura": 1,
+            "altro": ""
+        },
+        "metadata": {
+            "sezione": null,
+            "determina": null,
+            "ateco": null,
+            "attivitaPrevalente": null,
+            "attivitaSecondaria": null
+        }
     }
 ]
