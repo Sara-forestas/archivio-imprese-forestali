@@ -10,15 +10,7 @@ function Home() {
   const [comune, setComune] = useState("");
   const [attivita, setAttivita] = useState("");
 
-  const totaleAddetti = imprese.reduce(
-    (totale, impresa) =>
-      totale +
-      impresa.personale.addettiIndeterminati +
-      impresa.personale.addettiDeterminati +
-      impresa.personale.addettiStagionali,
-    0
-  );
-
+  
 const risultati =
   denominazione ||
   partitaIva ||
@@ -169,7 +161,9 @@ const risultati =
         </div>
 
       </div>
+          {/* TUTTE LE IMPRESE */}
 
+         
       {/* STATISTICHE */}
 
       <div className="row mt-4">
@@ -204,7 +198,24 @@ const risultati =
 
         </div>
 
-      </div>
+          </div>
+
+
+          <div className="row mt-4">
+
+         <div className="col-md-12">
+          <div className="text-center mt-8 mb-8">
+
+              <Link
+                  to="/imprese"
+                  className="btn btn-success btn-lg"
+              >
+                  Tutte le imprese
+              </Link>
+
+                  </div>
+              </div>
+              </div>
 
       {/* RISULTATI */}
 
